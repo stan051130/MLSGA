@@ -72,7 +72,13 @@ def file_adjust(output_path):
 
     print(f"{output_path} saved \n你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗！")
 
-for i in range(2021, 2024):
-    output_path = league_data(79,i)
-    file_adjust(output_path)
+#calling functions
+"""
+league_id = [39, 79, 61, 140]
+
+for league in league_id:
+    for i in range(2021, 2024):
+        output_path = league_data(league,i)
+        file_adjust(output_path)
+"""
 
