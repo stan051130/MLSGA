@@ -3,6 +3,7 @@ import pandas as pd
 from openpyxl import load_workbook
 from openpyxl.utils import get_column_letter
 from openpyxl.styles import Alignment
+import os
 
 
 def league_data(some_id, season):
@@ -46,10 +47,14 @@ def league_data(some_id, season):
 
     league_name = match[0]['league']['name']
 
+    output_dir = "D/output"
+
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+
     output_path = f"D:/output/{league_name}-{season}.xlsx"
     games_df.to_excel(output_path, index=False)
     return output_path
-
 
 def file_adjust(output_path):
     wb = load_workbook(output_path)
@@ -65,9 +70,9 @@ def file_adjust(output_path):
 
     wb.save(output_path)
 
-    print(f"{output_path} saved 你个狗!你个狗！你个狗!你个狗！你个狗!你个狗！")
-
+    print(f"{output_path} saved \n你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗！")
 
 for i in range(2021, 2024):
     output_path = league_data(79,i)
     file_adjust(output_path)
+
