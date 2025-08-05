@@ -17,7 +17,6 @@ headers = {
 }
 
 response = requests.get(url, headers=headers, params=query_string)
-
 data = response.json()
 
 match = data['response']
@@ -55,3 +54,4 @@ for row in ws.iter_rows():
         cell.alignment = Alignment(horizontal='center', vertical='center')
 
 wb.save(output_path)
+
