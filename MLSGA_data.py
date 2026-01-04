@@ -22,6 +22,12 @@ def league_data(some_id, season):
     response = requests.get(url, headers=headers, params=query_string)
     data = response.json()
 
+    print("status:", response.status_code)
+    print("errors:", data.get("errors"))
+    print("message:", data.get("message"))
+    print("results:", data.get("results"))
+    print("paging:", data.get("paging"))
+
     match = data['response']
 
     print(f"Season: {season}")
@@ -34,26 +40,35 @@ def league_data(some_id, season):
         'referee' : m['fixture']['referee'],
         'home_team' : m['teams']['home']['name'],
         'away_team' : m['teams']['away']['name'],
-        'home_goal(s)' : m['goals']['home'],
-        'away_goal(s)' : m['goals']['away'],
+        'home_goals' : m['goals']['home'],
+        'away_goals' : m['goals']['away'],
     }for m in match])
 
     games_df['result'] = games_df.apply(
-        lambda row: 'home' if row['home_goal(s)'] > row['away_goal(s)'] 
-        else 'away' if row['home_goal(s)'] < row['away_goal(s)'] 
+        lambda row: 'home' if row['home_goals'] > row['away_goals'] 
+        else 'away' if row['home_goals'] < row['away_goals'] 
         else 'draw',
         axis=1
-    )
+    )   
+    
+    assert games_df.shape[0] > 0
+    assert games_df["date"].notna().all()
+    assert games_df["home_goals"].notna().all()
+    assert games_df["away_goals"].notna().all()
+
+    games_df["date"] = pd.to_datetime(games_df["date"], utc=True).dt.tz_convert(None)
+    games_df = games_df.sort_values("date").drop_duplicates(subset=["id"])
 
     league_name = match[0]['league']['name']
 
-    output_dir = "D/output"
+    output_dir = "D:/output_England"
 
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
-    output_path = f"D:/output/{league_name}-{season}.xlsx"
-    games_df.to_excel(output_path, index=False)
+    output_path = f"D:/output_England/{league_name}-{season}.csv"
+    games_df.to_csv(output_path, index=False)
+    print("Saving to:", output_path)
     return output_path
 
 def file_adjust(output_path):
@@ -70,15 +85,17 @@ def file_adjust(output_path):
 
     wb.save(output_path)
 
-    print(f"{output_path} saved \n你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗你个狗!你个狗！你个狗!你个狗！你个狗!你个狗！")
 
-#calling functions
-"""
-league_id = [39, 79, 61, 140]
 
-for league in league_id:
-    for i in range(2021, 2024):
+#league_id = [39, 79, 61, 140]
+    """
+    for league in league_id:
+    for i in range(2022, 2024):
         output_path = league_data(league,i)
-        file_adjust(output_path)
-"""
+    """
+if __name__ == "__main__":
+    league_id = [39]
+    for league in league_id:
+        for season in range(2022, 2024):  # 2022, 2023
+            league_data(league, season)
 
