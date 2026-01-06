@@ -34,7 +34,7 @@ def league_data(some_id, season):
     print(f"Number of matches returned: {len(match)}")
     print(f"Full API response (first 2 items): {match[:2]}")
 
-    games_df = pd.DataFrame([{
+    df = pd.DataFrame([{
         'date': m['fixture']['date'],
         'id' : m['fixture']['id'],
         'referee' : m['fixture']['referee'],
@@ -44,30 +44,35 @@ def league_data(some_id, season):
         'away_goals' : m['goals']['away'],
     }for m in match])
 
-    games_df['result'] = games_df.apply(
+    df['result'] = df.apply(
         lambda row: 'home' if row['home_goals'] > row['away_goals'] 
         else 'away' if row['home_goals'] < row['away_goals'] 
         else 'draw',
         axis=1
     )   
     
-    assert games_df.shape[0] > 0
-    assert games_df["date"].notna().all()
-    assert games_df["home_goals"].notna().all()
-    assert games_df["away_goals"].notna().all()
+    assert df.shape[0] > 0
+    assert df["date"].notna().all()
+    assert df["home_goals"].notna().all()
+    assert df["away_goals"].notna().all()
 
-    games_df["date"] = pd.to_datetime(games_df["date"], utc=True).dt.tz_convert(None)
-    games_df = games_df.sort_values("date").drop_duplicates(subset=["id"])
+    df["date"] = pd.to_datetime(df["date"], utc=True).dt.tz_convert(None)
+    df = df.sort_values("date").drop_duplicates(subset=["id"])
 
     league_name = match[0]['league']['name']
 
+    df["total_goals"] = df["home_goals"] + df["away_goals"]
+    df["date"] = pd.to_datetime(df["date"])
+    df["goal_diff"] = df["home_goals"] - df["away_goals"]
+    
+    
     output_dir = "D:/output_England"
 
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
     output_path = f"D:/output_England/{league_name}-{season}.csv"
-    games_df.to_csv(output_path, index=False)
+    df.to_csv(output_path, index=False)
     print("Saving to:", output_path)
     return output_path
 
@@ -98,4 +103,3 @@ if __name__ == "__main__":
     for league in league_id:
         for season in range(2022, 2024):  # 2022, 2023
             league_data(league, season)
-
