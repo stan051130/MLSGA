@@ -1,0 +1,309 @@
+date,id,referee,home_team,away_team,home_goals,away_goals,result,total_goals,goal_diff
+2022-07-15 18:30:00,872862,S. Waschitzki,FC Kaiserslautern,Hannover 96,2,1,0,3,1
+2022-07-16 11:00:00,872868,P. Alt,Jahn Regensburg,SV Darmstadt 98,2,0,0,2,2
+2022-07-16 11:00:00,872863,R. Braun,SpVgg Greuther Furth,Holstein Kiel,2,2,1,4,0
+2022-07-16 11:00:00,872864,F. Heft,FC St. Pauli,FC Nurnberg,3,2,0,5,1
+2022-07-16 11:00:00,872867,M. Bacher,SV Sandhausen,Arminia Bielefeld,2,1,0,3,1
+2022-07-16 18:30:00,872869,A. Aarnink,FC Magdeburg,Fortuna Dusseldorf,1,2,2,3,-1
+2022-07-17 11:30:00,872865,F. Lechner,SC Paderborn 07,Karlsruher SC,5,0,0,5,5
+2022-07-17 11:30:00,872870,T. Gerach,Eintracht Braunschweig,Hamburger SV,0,2,2,2,-2
+2022-07-17 11:30:00,872866,D. Siebert,Hansa Rostock,FC Heidenheim,0,1,2,1,-1
+2022-07-22 16:30:00,872877,T. Welz,Fortuna Dusseldorf,SC Paderborn 07,2,1,0,3,1
+2022-07-22 16:30:00,872873,N. Winter,SV Darmstadt 98,SV Sandhausen,2,1,0,3,1
+2022-07-23 11:00:00,872875,S. Stegemann,FC Nurnberg,SpVgg Greuther Furth,2,0,0,2,2
+2022-07-23 11:00:00,872874,D. Aytekin,FC Heidenheim,Eintracht Braunschweig,3,0,0,3,3
+2022-07-23 11:00:00,872876,T. Stieler,Holstein Kiel,FC Kaiserslautern,2,2,1,4,0
+2022-07-23 18:30:00,872878,F. Zwayer,Hannover 96,FC St. Pauli,2,2,1,4,0
+2022-07-24 11:30:00,872871,F. Willenborg,Arminia Bielefeld,Jahn Regensburg,0,3,2,3,-3
+2022-07-24 11:30:00,872879,B. Brand,Karlsruher SC,FC Magdeburg,2,3,2,5,-1
+2022-07-24 11:30:00,872872,R. Kampka,Hamburger SV,Hansa Rostock,0,1,2,1,-1
+2022-08-05 16:30:00,872880,A. Aarnink,SpVgg Greuther Furth,Karlsruher SC,1,1,1,2,0
+2022-08-05 16:30:00,872884,S. Waschitzki,SV Sandhausen,Fortuna Dusseldorf,1,0,0,1,1
+2022-08-06 11:00:00,872881,R. Hartmann,Hamburger SV,FC Heidenheim,1,0,0,1,1
+2022-08-06 11:00:00,872885,D. Schlager,Jahn Regensburg,FC Nurnberg,0,0,1,0,0
+2022-08-06 11:00:00,872882,R. Braun,SC Paderborn 07,Hannover 96,4,2,0,6,2
+2022-08-06 18:30:00,872883,S. Jablonski,Hansa Rostock,Arminia Bielefeld,2,1,0,3,1
+2022-08-07 11:30:00,872888,H. Osmers,FC Kaiserslautern,FC St. Pauli,2,1,0,3,1
+2022-08-07 11:30:00,872886,T. Gerach,FC Magdeburg,Holstein Kiel,1,2,2,3,-1
+2022-08-07 11:30:00,872887,M. Burda,Eintracht Braunschweig,SV Darmstadt 98,0,1,2,1,-1
+2022-08-12 16:30:00,872892,F. Lechner,FC Nurnberg,FC Heidenheim,0,3,2,3,-3
+2022-08-12 16:30:00,872897,M. Jöllenbeck,FC Kaiserslautern,SC Paderborn 07,0,1,2,1,-1
+2022-08-13 11:00:00,872889,M. Fritz,Arminia Bielefeld,Hamburger SV,0,2,2,2,-2
+2022-08-13 11:00:00,872893,W. Haslberger,Holstein Kiel,Eintracht Braunschweig,3,0,0,3,3
+2022-08-13 11:00:00,872896,P. Alt,Karlsruher SC,SV Sandhausen,3,2,0,5,1
+2022-08-13 18:30:00,872890,F. Heft,SV Darmstadt 98,Hansa Rostock,4,0,0,4,4
+2022-08-14 11:30:00,872895,M. Petersen,Hannover 96,Jahn Regensburg,1,0,0,1,1
+2022-08-14 11:30:00,872894,T. Reichel,Fortuna Dusseldorf,SpVgg Greuther Furth,2,2,1,4,0
+2022-08-14 11:30:00,872891,F. Badstübner,FC St. Pauli,FC Magdeburg,3,0,0,3,3
+2022-08-19 16:30:00,872905,R. Kampka,FC Magdeburg,Hannover 96,0,4,2,4,-4
+2022-08-19 16:30:00,872899,R. Schröder,Hamburger SV,SV Darmstadt 98,1,2,2,3,-1
+2022-08-20 11:00:00,872904,M. Bacher,Jahn Regensburg,Karlsruher SC,0,6,2,6,-6
+2022-08-20 11:00:00,872901,F. Exner,SC Paderborn 07,Holstein Kiel,7,2,0,9,5
+2022-08-20 11:00:00,872903,M. Burda,SV Sandhausen,FC Nurnberg,1,2,2,3,-1
+2022-08-20 18:30:00,872906,B. Dankert,Eintracht Braunschweig,Fortuna Dusseldorf,2,2,1,4,0
+2022-08-21 11:30:00,872898,T. Stieler,SpVgg Greuther Furth,FC Kaiserslautern,1,3,2,4,-2
+2022-08-21 11:30:00,872900,N. Winter,FC Heidenheim,Arminia Bielefeld,1,1,1,2,0
+2022-08-21 11:30:00,872902,C. Dingert,Hansa Rostock,FC St. Pauli,2,0,0,2,2
+2022-08-26 16:30:00,872907,B. Cortus,Arminia Bielefeld,Eintracht Braunschweig,4,1,0,5,3
+2022-08-26 16:30:00,872912,F. Heft,Fortuna Dusseldorf,Jahn Regensburg,4,0,0,4,4
+2022-08-27 11:00:00,872908,A. Aarnink,SV Darmstadt 98,FC Heidenheim,2,2,1,4,0
+2022-08-27 11:00:00,872909,D. Aytekin,FC St. Pauli,SC Paderborn 07,2,2,1,4,0
+2022-08-27 11:00:00,872914,W. Haslberger,Karlsruher SC,Hansa Rostock,2,0,0,2,2
+2022-08-27 18:30:00,872910,F. Zwayer,FC Nurnberg,Hamburger SV,0,2,2,2,-2
+2022-08-28 11:30:00,872913,F. Willenborg,Hannover 96,SpVgg Greuther Furth,2,1,0,3,1
+2022-08-28 11:30:00,872911,A. Sather,Holstein Kiel,SV Sandhausen,1,0,0,1,1
+2022-08-28 11:30:00,872915,R. Braun,FC Kaiserslautern,FC Magdeburg,4,4,1,8,0
+2022-09-02 16:30:00,872924,P. Alt,Eintracht Braunschweig,FC Nurnberg,4,2,0,6,2
+2022-09-02 16:30:00,872919,R. Kampka,FC Heidenheim,Fortuna Dusseldorf,2,1,0,3,1
+2022-09-03 11:00:00,872923,F. Lechner,Jahn Regensburg,Holstein Kiel,0,0,1,0,0
+2022-09-03 11:00:00,872916,M. Petersen,SpVgg Greuther Furth,FC St. Pauli,2,2,1,4,0
+2022-09-03 11:00:00,872920,S. Waschitzki,SC Paderborn 07,FC Magdeburg,1,0,0,1,1
+2022-09-03 18:30:00,872917,T. Reichel,Hamburger SV,Karlsruher SC,1,0,0,1,1
+2022-09-04 11:30:00,872918,D. Schlager,SV Darmstadt 98,Arminia Bielefeld,1,1,1,2,0
+2022-09-04 11:30:00,872922,B. Brand,SV Sandhausen,FC Kaiserslautern,0,0,1,0,0
+2022-09-04 11:30:00,872921,T. Gerach,Hansa Rostock,Hannover 96,0,1,2,1,-1
+2022-09-09 16:30:00,872927,A. Sather,FC Nurnberg,Arminia Bielefeld,1,0,0,1,1
+2022-09-09 16:30:00,872928,D. Siebert,Holstein Kiel,Hamburger SV,2,3,2,5,-1
+2022-09-10 11:00:00,872930,P. Ittrich,Hannover 96,Eintracht Braunschweig,1,1,1,2,0
+2022-09-10 11:00:00,872926,F. Badstübner,SC Paderborn 07,Jahn Regensburg,3,0,0,3,3
+2022-09-10 11:00:00,872931,F. Exner,Karlsruher SC,FC Heidenheim,0,0,1,0,0
+2022-09-10 18:30:00,872929,S. Stegemann,Fortuna Dusseldorf,Hansa Rostock,3,1,0,4,2
+2022-09-11 11:30:00,872932,M. Burda,FC Magdeburg,SpVgg Greuther Furth,2,1,0,3,1
+2022-09-11 11:30:00,872925,M. Bacher,FC St. Pauli,SV Sandhausen,1,1,1,2,0
+2022-09-11 11:30:00,872933,M. Fritz,FC Kaiserslautern,SV Darmstadt 98,3,3,1,6,0
+2022-09-16 16:30:00,872942,R. Braun,Eintracht Braunschweig,Karlsruher SC,2,1,0,3,1
+2022-09-16 16:30:00,872940,W. Haslberger,SV Sandhausen,Hannover 96,2,3,2,5,-1
+2022-09-17 11:00:00,872934,A. Aarnink,Arminia Bielefeld,Holstein Kiel,4,2,0,6,2
+2022-09-17 11:00:00,872939,H. Osmers,Hansa Rostock,FC Magdeburg,3,1,0,4,2
+2022-09-17 11:00:00,872937,C. Dingert,SV Darmstadt 98,FC Nurnberg,2,0,0,2,2
+2022-09-17 18:30:00,872936,S. Jablonski,Hamburger SV,Fortuna Dusseldorf,2,0,0,2,2
+2022-09-18 11:30:00,872941,N. Winter,Jahn Regensburg,FC St. Pauli,2,0,0,2,2
+2022-09-18 11:30:00,872935,F. Heft,SpVgg Greuther Furth,SC Paderborn 07,2,1,0,3,1
+2022-09-18 11:30:00,872938,T. Reichel,FC Heidenheim,FC Kaiserslautern,2,2,1,4,0
+2022-09-30 16:30:00,872948,F. Brych,Hannover 96,Hamburger SV,1,2,2,3,-1
+2022-09-30 16:30:00,872945,B. Cortus,SC Paderborn 07,SV Darmstadt 98,1,2,2,3,-1
+2022-10-01 11:00:00,872943,F. Lechner,SpVgg Greuther Furth,SV Sandhausen,1,1,1,2,0
+2022-10-01 11:00:00,872946,M. Thomsen,Holstein Kiel,Hansa Rostock,1,1,1,2,0
+2022-10-01 11:00:00,872947,B. Dankert,Fortuna Dusseldorf,Arminia Bielefeld,4,1,0,5,3
+2022-10-01 18:30:00,872944,S. Waschitzki,FC St. Pauli,FC Heidenheim,0,0,1,0,0
+2022-10-02 11:30:00,872950,D. Aytekin,FC Magdeburg,Jahn Regensburg,1,0,0,1,1
+2022-10-02 11:30:00,872951,R. Schröder,FC Kaiserslautern,Eintracht Braunschweig,1,1,1,2,0
+2022-10-02 11:30:00,872949,R. Kampka,Karlsruher SC,FC Nurnberg,3,0,0,3,3
+2022-10-07 16:30:00,872959,M. Bacher,Jahn Regensburg,SpVgg Greuther Furth,2,2,1,4,0
+2022-10-07 16:30:00,872952,T. Stieler,Arminia Bielefeld,Karlsruher SC,1,2,2,3,-1
+2022-10-08 11:00:00,872960,S. Stegemann,Eintracht Braunschweig,FC St. Pauli,2,1,0,3,1
+2022-10-08 11:00:00,872954,M. Burda,SV Darmstadt 98,Fortuna Dusseldorf,1,0,0,1,1
+2022-10-08 11:00:00,872957,F. Zwayer,Hansa Rostock,SC Paderborn 07,0,3,2,3,-3
+2022-10-08 18:30:00,872953,R. Hartmann,Hamburger SV,FC Kaiserslautern,1,1,1,2,0
+2022-10-09 11:30:00,872956,T. Gerach,FC Nurnberg,Holstein Kiel,2,3,2,5,-1
+2022-10-09 11:30:00,872955,C. Dingert,FC Heidenheim,Hannover 96,2,1,0,3,1
+2022-10-09 11:30:00,872958,F. Exner,SV Sandhausen,FC Magdeburg,1,0,0,1,1
+2022-10-14 16:30:00,872961,N. Winter,SpVgg Greuther Furth,Hansa Rostock,2,2,1,4,0
+2022-10-14 16:30:00,872962,D. Aytekin,FC St. Pauli,Hamburger SV,3,0,0,3,3
+2022-10-15 11:00:00,872965,W. Haslberger,Fortuna Dusseldorf,FC Nurnberg,0,1,2,1,-1
+2022-10-15 11:00:00,872968,M. Petersen,FC Magdeburg,Eintracht Braunschweig,0,2,2,2,-2
+2022-10-15 11:00:00,872967,A. Sather,Karlsruher SC,SV Darmstadt 98,1,2,2,3,-1
+2022-10-15 18:30:00,872966,M. Jöllenbeck,Hannover 96,Arminia Bielefeld,2,0,0,2,2
+2022-10-16 11:30:00,872969,M. Thomsen,FC Kaiserslautern,Jahn Regensburg,0,3,2,3,-3
+2022-10-16 11:30:00,872963,T. Reichel,SC Paderborn 07,SV Sandhausen,3,0,0,3,3
+2022-10-16 11:30:00,872964,P. Alt,Holstein Kiel,FC Heidenheim,3,1,0,4,2
+2022-10-21 16:30:00,872972,C. Dingert,SV Darmstadt 98,Holstein Kiel,1,1,1,2,0
+2022-10-21 16:30:00,872976,R. Kampka,Hansa Rostock,FC Kaiserslautern,0,2,2,2,-2
+2022-10-22 11:00:00,872974,F. Zwayer,FC Nurnberg,Hannover 96,0,0,1,0,0
+2022-10-22 11:00:00,872977,A. Aarnink,Jahn Regensburg,SV Sandhausen,2,1,0,3,1
+2022-10-22 11:00:00,872978,F. Lechner,Eintracht Braunschweig,SC Paderborn 07,0,0,1,0,0
+2022-10-22 18:30:00,872970,B. Cortus,Arminia Bielefeld,FC St. Pauli,2,0,0,2,2
+2022-10-23 11:30:00,872975,F. Heft,Karlsruher SC,Fortuna Dusseldorf,0,2,2,2,-2
+2022-10-23 11:30:00,872971,H. Osmers,Hamburger SV,FC Magdeburg,2,3,2,5,-1
+2022-10-23 11:30:00,872973,R. Braun,FC Heidenheim,SpVgg Greuther Furth,3,1,0,4,2
+2022-10-28 16:30:00,872979,F. Brych,SpVgg Greuther Furth,Arminia Bielefeld,1,0,0,1,1
+2022-10-28 16:30:00,872986,M. Thomsen,FC Magdeburg,FC Heidenheim,1,1,1,2,0
+2022-10-29 11:00:00,872985,F. Exner,Jahn Regensburg,Hansa Rostock,0,3,2,3,-3
+2022-10-29 11:00:00,872982,R. Schröder,Holstein Kiel,Fortuna Dusseldorf,1,2,2,3,-1
+2022-10-29 11:00:00,872987,M. Bacher,FC Kaiserslautern,FC Nurnberg,0,0,1,0,0
+2022-10-29 18:30:00,872980,B. Dankert,FC St. Pauli,SV Darmstadt 98,1,1,1,2,0
+2022-10-30 12:30:00,872984,A. Sather,SV Sandhausen,Eintracht Braunschweig,2,2,1,4,0
+2022-10-30 12:30:00,872981,F. Badstübner,SC Paderborn 07,Hamburger SV,2,3,2,5,-1
+2022-10-30 12:30:00,872983,S. Waschitzki,Hannover 96,Karlsruher SC,1,0,0,1,1
+2022-11-04 17:30:00,872990,B. Cortus,SV Darmstadt 98,Hannover 96,1,0,0,1,1
+2022-11-04 17:30:00,872995,R. Hartmann,Hansa Rostock,SV Sandhausen,0,1,2,1,-1
+2022-11-05 12:00:00,872993,F. Willenborg,Fortuna Dusseldorf,FC St. Pauli,1,0,0,1,1
+2022-11-05 12:00:00,872991,T. Gerach,FC Heidenheim,SC Paderborn 07,3,0,0,3,3
+2022-11-05 12:00:00,872994,M. Burda,Karlsruher SC,Holstein Kiel,1,4,2,5,-3
+2022-11-05 19:30:00,872988,P. Alt,Arminia Bielefeld,FC Kaiserslautern,2,3,2,5,-1
+2022-11-06 12:30:00,872996,S. Waschitzki,Eintracht Braunschweig,SpVgg Greuther Furth,0,1,2,1,-1
+2022-11-06 12:30:00,872989,S. Stegemann,Hamburger SV,Jahn Regensburg,3,1,0,4,2
+2022-11-06 12:30:00,872992,N. Winter,FC Nurnberg,FC Magdeburg,1,2,2,3,-1
+2022-11-08 17:30:00,873000,F. Exner,Hannover 96,Fortuna Dusseldorf,2,0,0,2,2
+2022-11-08 17:30:00,872999,M. Thomsen,SC Paderborn 07,Arminia Bielefeld,0,2,2,2,-2
+2022-11-08 17:30:00,872998,A. Sather,FC St. Pauli,Holstein Kiel,0,0,1,0,0
+2022-11-08 17:30:00,873005,R. Schröder,FC Kaiserslautern,Karlsruher SC,2,0,0,2,2
+2022-11-09 17:30:00,873003,M. Petersen,Jahn Regensburg,Eintracht Braunschweig,1,1,1,2,0
+2022-11-09 17:30:00,872997,M. Jöllenbeck,SpVgg Greuther Furth,Hamburger SV,1,0,0,1,1
+2022-11-09 17:30:00,873002,R. Hempel,SV Sandhausen,FC Heidenheim,3,4,2,7,-1
+2022-11-09 17:30:00,873001,R. Braun,Hansa Rostock,FC Nurnberg,1,1,1,2,0
+2022-11-10 19:30:00,873004,W. Haslberger,FC Magdeburg,SV Darmstadt 98,0,1,2,1,-1
+2022-11-11 17:30:00,873012,B. Cortus,Fortuna Dusseldorf,FC Kaiserslautern,1,2,2,3,-1
+2022-11-11 17:30:00,873011,A. Aarnink,Holstein Kiel,Hannover 96,1,1,1,2,0
+2022-11-12 12:00:00,873007,F. Willenborg,Hamburger SV,SV Sandhausen,4,2,0,6,2
+2022-11-12 12:00:00,873009,F. Heft,FC Heidenheim,Jahn Regensburg,5,4,0,9,1
+2022-11-12 12:00:00,873013,F. Lechner,Karlsruher SC,FC St. Pauli,4,4,1,8,0
+2022-11-12 19:30:00,873014,M. Bacher,Eintracht Braunschweig,Hansa Rostock,0,1,2,1,-1
+2022-11-13 12:30:00,873008,H. Osmers,SV Darmstadt 98,SpVgg Greuther Furth,1,1,1,2,0
+2022-11-13 12:30:00,873006,R. Hempel,Arminia Bielefeld,FC Magdeburg,3,1,0,4,2
+2022-11-13 12:30:00,873010,R. Kampka,FC Nurnberg,SC Paderborn 07,2,1,0,3,1
+2023-01-27 17:30:00,873023,P. Alt,Karlsruher SC,SC Paderborn 07,0,1,2,1,-1
+2023-01-27 17:30:00,873021,F. Willenborg,Fortuna Dusseldorf,FC Magdeburg,3,2,0,5,1
+2023-01-28 12:00:00,873018,M. Burda,FC Heidenheim,Hansa Rostock,2,0,0,2,2
+2023-01-28 12:00:00,873017,D. Schlager,SV Darmstadt 98,Jahn Regensburg,2,0,0,2,2
+2023-01-28 12:00:00,873020,F. Exner,Holstein Kiel,SpVgg Greuther Furth,2,1,0,3,1
+2023-01-28 19:30:00,873022,S. Stegemann,Hannover 96,FC Kaiserslautern,1,3,2,4,-2
+2023-01-29 12:30:00,873019,A. Sather,FC Nurnberg,FC St. Pauli,0,1,2,1,-1
+2023-01-29 12:30:00,873016,R. Hartmann,Hamburger SV,Eintracht Braunschweig,4,2,0,6,2
+2023-01-29 12:30:00,873015,N. Winter,Arminia Bielefeld,SV Sandhausen,1,2,2,3,-1
+2023-02-03 17:30:00,873026,T. Reichel,SC Paderborn 07,Fortuna Dusseldorf,4,1,0,5,3
+2023-02-03 17:30:00,873028,M. Jöllenbeck,SV Sandhausen,SV Darmstadt 98,0,4,2,4,-4
+2023-02-04 12:00:00,873032,M. Thomsen,FC Kaiserslautern,Holstein Kiel,2,1,0,3,1
+2023-02-04 12:00:00,873029,S. Waschitzki,Jahn Regensburg,Arminia Bielefeld,1,3,2,4,-2
+2023-02-04 12:00:00,873031,W. Haslberger,Eintracht Braunschweig,FC Heidenheim,2,0,0,2,2
+2023-02-04 19:30:00,873024,T. Stieler,SpVgg Greuther Furth,FC Nurnberg,1,0,0,1,1
+2023-02-05 12:30:00,873030,R. Braun,FC Magdeburg,Karlsruher SC,1,1,1,2,0
+2023-02-05 12:30:00,873025,T. Gerach,FC St. Pauli,Hannover 96,2,0,0,2,2
+2023-02-05 12:30:00,873027,T. Welz,Hansa Rostock,Hamburger SV,0,2,2,2,-2
+2023-02-10 17:30:00,873041,F. Willenborg,Karlsruher SC,SpVgg Greuther Furth,2,1,0,3,1
+2023-02-10 17:30:00,873033,M. Bacher,Arminia Bielefeld,Hansa Rostock,0,1,2,1,-1
+2023-02-11 12:00:00,873038,F. Heft,Holstein Kiel,FC Magdeburg,2,3,2,5,-1
+2023-02-11 12:00:00,873040,B. Cortus,Hannover 96,SC Paderborn 07,3,4,2,7,-1
+2023-02-11 12:00:00,873037,A. Aarnink,FC Nurnberg,Jahn Regensburg,1,0,0,1,1
+2023-02-11 19:30:00,873036,D. Aytekin,FC Heidenheim,Hamburger SV,3,3,1,6,0
+2023-02-12 12:30:00,873039,T. Welz,Fortuna Dusseldorf,SV Sandhausen,2,0,0,2,2
+2023-02-12 12:30:00,873034,R. Kampka,SV Darmstadt 98,Eintracht Braunschweig,2,1,0,3,1
+2023-02-12 12:30:00,873035,M. Petersen,FC St. Pauli,FC Kaiserslautern,1,0,0,1,1
+2023-02-17 17:30:00,873045,S. Jablonski,SC Paderborn 07,FC Kaiserslautern,1,0,0,1,1
+2023-02-17 17:30:00,873050,N. Winter,Eintracht Braunschweig,Holstein Kiel,2,3,2,5,-1
+2023-02-18 12:00:00,873042,M. Fritz,SpVgg Greuther Furth,Fortuna Dusseldorf,2,1,0,3,1
+2023-02-18 12:00:00,873048,M. Burda,Jahn Regensburg,Hannover 96,1,1,1,2,0
+2023-02-18 12:00:00,873049,P. Alt,FC Magdeburg,FC St. Pauli,1,2,2,3,-1
+2023-02-18 19:30:00,873046,A. Sather,Hansa Rostock,SV Darmstadt 98,0,1,2,1,-1
+2023-02-19 12:30:00,873043,D. Siebert,Hamburger SV,Arminia Bielefeld,2,1,0,3,1
+2023-02-19 12:30:00,873044,F. Exner,FC Heidenheim,FC Nurnberg,5,0,0,5,5
+2023-02-19 12:30:00,873047,F. Badstübner,SV Sandhausen,Karlsruher SC,0,3,2,3,-3
+2023-02-24 17:30:00,873058,P. Alt,Karlsruher SC,Jahn Regensburg,1,0,0,1,1
+2023-02-24 17:30:00,873056,S. Waschitzki,Fortuna Dusseldorf,Eintracht Braunschweig,3,1,0,4,2
+2023-02-25 12:00:00,873055,W. Haslberger,Holstein Kiel,SC Paderborn 07,1,1,1,2,0
+2023-02-25 12:00:00,873059,P. Ittrich,FC Kaiserslautern,SpVgg Greuther Furth,3,1,0,4,2
+2023-02-25 12:00:00,873054,R. Braun,FC Nurnberg,SV Sandhausen,1,0,0,1,1
+2023-02-25 19:30:00,873052,C. Dingert,SV Darmstadt 98,Hamburger SV,1,1,1,2,0
+2023-02-26 12:30:00,873057,M. Thomsen,Hannover 96,FC Magdeburg,1,2,2,3,-1
+2023-02-26 12:30:00,873053,B. Brand,FC St. Pauli,Hansa Rostock,1,0,0,1,1
+2023-02-26 12:30:00,873051,F. Lechner,Arminia Bielefeld,FC Heidenheim,0,1,2,1,-1
+2023-03-03 17:30:00,873067,M. Bacher,FC Magdeburg,FC Kaiserslautern,2,0,0,2,2
+2023-03-03 17:30:00,873063,A. Aarnink,SC Paderborn 07,FC St. Pauli,1,2,2,3,-1
+2023-03-04 12:00:00,873066,R. Kampka,Jahn Regensburg,Fortuna Dusseldorf,0,1,2,1,-1
+2023-03-04 12:00:00,873065,R. Hartmann,SV Sandhausen,Holstein Kiel,1,1,1,2,0
+2023-03-04 12:00:00,873061,T. Reichel,Hamburger SV,FC Nurnberg,3,0,0,3,3
+2023-03-04 19:30:00,873062,R. Schröder,FC Heidenheim,SV Darmstadt 98,1,0,0,1,1
+2023-03-05 12:30:00,873060,F. Heft,SpVgg Greuther Furth,Hannover 96,1,1,1,2,0
+2023-03-05 12:30:00,873068,D. Aytekin,Eintracht Braunschweig,Arminia Bielefeld,3,3,1,6,0
+2023-03-05 12:30:00,873064,T. Bauer,Hansa Rostock,Karlsruher SC,0,2,2,2,-2
+2023-03-10 17:30:00,873071,T. Gerach,FC Nurnberg,Eintracht Braunschweig,2,0,0,2,2
+2023-03-10 17:30:00,873077,M. Burda,FC Kaiserslautern,SV Sandhausen,2,2,1,4,0
+2023-03-11 12:00:00,873070,F. Zwayer,FC St. Pauli,SpVgg Greuther Furth,2,1,0,3,1
+2023-03-11 12:00:00,873076,N. Winter,FC Magdeburg,SC Paderborn 07,0,0,1,0,0
+2023-03-11 12:00:00,873069,F. Brych,Arminia Bielefeld,SV Darmstadt 98,3,1,0,4,2
+2023-03-11 19:30:00,873073,D. Schlager,Fortuna Dusseldorf,FC Heidenheim,1,1,1,2,0
+2023-03-12 12:30:00,873074,D. Siebert,Hannover 96,Hansa Rostock,1,1,1,2,0
+2023-03-12 12:30:00,873072,A. Sather,Holstein Kiel,Jahn Regensburg,1,2,2,3,-1
+2023-03-12 12:30:00,873075,S. Stegemann,Karlsruher SC,Hamburger SV,4,2,0,6,2
+2023-03-17 17:30:00,873082,R. Braun,FC Heidenheim,Karlsruher SC,5,2,0,7,3
+2023-03-17 17:30:00,873078,M. Petersen,Arminia Bielefeld,FC Nurnberg,2,2,1,4,0
+2023-03-18 12:00:00,873080,B. Brand,Hamburger SV,Holstein Kiel,0,0,1,0,0
+2023-03-18 12:00:00,873085,M. Thomsen,Jahn Regensburg,SC Paderborn 07,1,0,0,1,1
+2023-03-18 12:00:00,873079,F. Exner,SpVgg Greuther Furth,FC Magdeburg,3,0,0,3,3
+2023-03-18 19:30:00,873081,S. Jablonski,SV Darmstadt 98,FC Kaiserslautern,2,0,0,2,2
+2023-03-19 12:30:00,873084,D. Aytekin,SV Sandhausen,FC St. Pauli,0,5,2,5,-5
+2023-03-19 12:30:00,873086,P. Ittrich,Eintracht Braunschweig,Hannover 96,1,0,0,1,1
+2023-03-19 12:30:00,873083,P. Alt,Hansa Rostock,Fortuna Dusseldorf,2,5,2,7,-3
+2023-03-31 16:30:00,873091,R. Schröder,Fortuna Dusseldorf,Hamburger SV,2,2,1,4,0
+2023-03-31 16:30:00,873089,S. Waschitzki,FC Nurnberg,SV Darmstadt 98,0,1,2,1,-1
+2023-04-01 11:00:00,873092,F. Brych,Hannover 96,SV Sandhausen,3,1,0,4,2
+2023-04-01 11:00:00,873087,B. Dankert,FC St. Pauli,Jahn Regensburg,1,0,0,1,1
+2023-04-01 11:00:00,873093,F. Lechner,Karlsruher SC,Eintracht Braunschweig,1,1,1,2,0
+2023-04-01 18:30:00,873095,R. Hartmann,FC Kaiserslautern,FC Heidenheim,2,2,1,4,0
+2023-04-02 11:30:00,873090,T. Gerach,Holstein Kiel,Arminia Bielefeld,2,3,2,5,-1
+2023-04-02 11:30:00,873094,A. Aarnink,FC Magdeburg,Hansa Rostock,3,0,0,3,3
+2023-04-02 11:30:00,873088,M. Bacher,SC Paderborn 07,SpVgg Greuther Furth,3,2,0,5,1
+2023-04-08 11:00:00,873100,W. Haslberger,FC Nurnberg,Karlsruher SC,1,1,1,2,0
+2023-04-08 11:00:00,873097,F. Badstübner,Hamburger SV,Hannover 96,6,1,0,7,5
+2023-04-08 11:00:00,873104,S. Stegemann,Eintracht Braunschweig,FC Kaiserslautern,1,0,0,1,1
+2023-04-08 18:30:00,873099,C. Dingert,FC Heidenheim,FC St. Pauli,0,1,2,1,-1
+2023-04-09 11:30:00,873101,N. Winter,Hansa Rostock,Holstein Kiel,2,3,2,5,-1
+2023-04-09 11:30:00,873096,F. Heft,Arminia Bielefeld,Fortuna Dusseldorf,2,2,1,4,0
+2023-04-09 11:30:00,873102,M. Petersen,SV Sandhausen,SpVgg Greuther Furth,0,2,2,2,-2
+2023-04-09 11:30:00,873103,T. Stieler,Jahn Regensburg,FC Magdeburg,2,2,1,4,0
+2023-04-09 11:30:00,873098,M. Burda,SV Darmstadt 98,SC Paderborn 07,2,1,0,3,1
+2023-04-14 16:30:00,873110,F. Exner,Hannover 96,FC Heidenheim,0,3,2,3,-3
+2023-04-14 16:30:00,873105,P. Alt,SpVgg Greuther Furth,Jahn Regensburg,2,1,0,3,1
+2023-04-15 11:00:00,873112,M. Thomsen,FC Magdeburg,SV Sandhausen,1,2,2,3,-1
+2023-04-15 11:00:00,873107,M. Petersen,SC Paderborn 07,Hansa Rostock,3,0,0,3,3
+2023-04-15 11:00:00,873108,R. Braun,Holstein Kiel,FC Nurnberg,2,1,0,3,1
+2023-04-15 18:30:00,873113,F. Willenborg,FC Kaiserslautern,Hamburger SV,2,0,0,2,2
+2023-04-16 11:30:00,873106,R. Hartmann,FC St. Pauli,Eintracht Braunschweig,1,2,2,3,-1
+2023-04-16 11:30:00,873111,A. Sather,Karlsruher SC,Arminia Bielefeld,4,2,0,6,2
+2023-04-16 11:30:00,873109,D. Aytekin,Fortuna Dusseldorf,SV Darmstadt 98,1,0,0,1,1
+2023-04-21 16:30:00,873115,S. Jablonski,Hamburger SV,FC St. Pauli,4,3,0,7,1
+2023-04-21 16:30:00,873116,A. Aarnink,SV Darmstadt 98,Karlsruher SC,2,1,0,3,1
+2023-04-22 11:00:00,873118,S. Storks,FC Nurnberg,Fortuna Dusseldorf,2,0,0,2,2
+2023-04-22 11:00:00,873114,R. Kampka,Arminia Bielefeld,Hannover 96,1,3,2,4,-2
+2023-04-22 11:00:00,873119,P. Ittrich,Hansa Rostock,SpVgg Greuther Furth,2,0,0,2,2
+2023-04-22 18:30:00,873122,M. Bacher,Eintracht Braunschweig,FC Magdeburg,1,2,2,3,-1
+2023-04-23 11:30:00,873120,T. Stieler,SV Sandhausen,SC Paderborn 07,2,2,1,4,0
+2023-04-23 11:30:00,873117,F. Badstübner,FC Heidenheim,Holstein Kiel,3,0,0,3,3
+2023-04-23 11:30:00,873121,F. Lechner,Jahn Regensburg,FC Kaiserslautern,0,0,1,0,0
+2023-04-28 16:30:00,873123,F. Zwayer,SpVgg Greuther Furth,FC Heidenheim,0,2,2,2,-2
+2023-04-28 16:30:00,873125,B. Cortus,SC Paderborn 07,Eintracht Braunschweig,5,1,0,6,4
+2023-04-29 11:00:00,873130,H. Osmers,FC Magdeburg,Hamburger SV,3,2,0,5,1
+2023-04-29 11:00:00,873124,M. Burda,FC St. Pauli,Arminia Bielefeld,2,1,0,3,1
+2023-04-29 11:00:00,873131,S. Waschitzki,FC Kaiserslautern,Hansa Rostock,0,1,2,1,-1
+2023-04-29 18:30:00,873128,R. Hempel,Hannover 96,FC Nurnberg,3,0,0,3,3
+2023-04-30 11:30:00,873129,D. Aytekin,SV Sandhausen,Jahn Regensburg,2,1,0,3,1
+2023-04-30 11:30:00,873126,F. Heft,Holstein Kiel,SV Darmstadt 98,0,3,2,3,-3
+2023-04-30 11:30:00,873127,T. Gerach,Fortuna Dusseldorf,Karlsruher SC,3,2,0,5,1
+2023-05-05 16:30:00,873132,T. Stieler,Arminia Bielefeld,SpVgg Greuther Furth,1,1,1,2,0
+2023-05-05 16:30:00,873133,R. Braun,Hamburger SV,SC Paderborn 07,2,2,1,4,0
+2023-05-06 11:00:00,873137,A. Aarnink,Fortuna Dusseldorf,Holstein Kiel,3,0,0,3,3
+2023-05-06 11:00:00,873138,P. Alt,Karlsruher SC,Hannover 96,2,1,0,3,1
+2023-05-06 11:00:00,873139,F. Willenborg,Hansa Rostock,Jahn Regensburg,2,0,0,2,2
+2023-05-06 18:30:00,873134,T. Reichel,SV Darmstadt 98,FC St. Pauli,0,3,2,3,-3
+2023-05-07 11:30:00,873136,F. Exner,FC Nurnberg,FC Kaiserslautern,3,3,1,6,0
+2023-05-07 11:30:00,873135,B. Dankert,FC Heidenheim,FC Magdeburg,0,0,1,0,0
+2023-05-07 11:30:00,873140,D. Siebert,Eintracht Braunschweig,SV Sandhausen,2,1,0,3,1
+2023-05-12 16:30:00,873146,S. Storks,SV Sandhausen,Hansa Rostock,1,2,2,3,-1
+2023-05-12 16:30:00,873148,F. Zwayer,FC Magdeburg,FC Nurnberg,2,2,1,4,0
+2023-05-13 11:00:00,873141,R. Hartmann,SpVgg Greuther Furth,Eintracht Braunschweig,2,2,1,4,0
+2023-05-13 11:00:00,873144,F. Lechner,Holstein Kiel,Karlsruher SC,2,1,0,3,1
+2023-05-13 11:00:00,873149,M. Thomsen,FC Kaiserslautern,Arminia Bielefeld,1,2,2,3,-1
+2023-05-13 18:30:00,873142,M. Jöllenbeck,FC St. Pauli,Fortuna Dusseldorf,0,0,1,0,0
+2023-05-14 11:30:00,873143,D. Siebert,SC Paderborn 07,FC Heidenheim,3,2,0,5,1
+2023-05-14 11:30:00,873145,S. Stegemann,Hannover 96,SV Darmstadt 98,2,1,0,3,1
+2023-05-14 11:30:00,873147,A. Sather,Jahn Regensburg,Hamburger SV,1,5,2,6,-4
+2023-05-19 16:30:00,873155,R. Kampka,Holstein Kiel,FC St. Pauli,3,4,2,7,-1
+2023-05-19 16:30:00,873152,H. Osmers,SV Darmstadt 98,FC Magdeburg,1,0,0,1,1
+2023-05-20 11:00:00,873153,B. Brand,FC Heidenheim,SV Sandhausen,1,0,0,1,1
+2023-05-20 11:00:00,873150,F. Willenborg,Arminia Bielefeld,SC Paderborn 07,2,2,1,4,0
+2023-05-20 11:00:00,873158,M. Burda,Eintracht Braunschweig,Jahn Regensburg,1,2,2,3,-1
+2023-05-20 18:30:00,873151,S. Waschitzki,Hamburger SV,SpVgg Greuther Furth,2,1,0,3,1
+2023-05-21 11:30:00,873156,M. Bacher,Fortuna Dusseldorf,Hannover 96,3,3,1,6,0
+2023-05-21 11:30:00,873154,T. Reichel,FC Nurnberg,Hansa Rostock,0,0,1,0,0
+2023-05-21 11:30:00,873157,F. Heft,Karlsruher SC,FC Kaiserslautern,2,0,0,2,2
+2023-05-28 13:30:00,873162,M. Thomsen,Hannover 96,Holstein Kiel,1,5,2,6,-4
+2023-05-28 13:30:00,873165,S. Storks,Jahn Regensburg,FC Heidenheim,2,3,2,5,-1
+2023-05-28 13:30:00,873159,N. Winter,SpVgg Greuther Furth,SV Darmstadt 98,4,0,0,4,4
+2023-05-28 13:30:00,873166,B. Dankert,FC Magdeburg,Arminia Bielefeld,4,0,0,4,4
+2023-05-28 13:30:00,873161,S. Stegemann,SC Paderborn 07,FC Nurnberg,0,1,2,1,-1
+2023-05-28 13:30:00,873160,P. Alt,FC St. Pauli,Karlsruher SC,1,1,1,2,0
+2023-05-28 13:30:00,873164,F. Badstübner,SV Sandhausen,Hamburger SV,0,1,2,1,-1
+2023-05-28 13:30:00,873167,M. Petersen,FC Kaiserslautern,Fortuna Dusseldorf,0,3,2,3,-3
+2023-05-28 13:30:00,873163,D. Schlager,Hansa Rostock,Eintracht Braunschweig,2,1,0,3,1
+2023-06-02 18:45:00,1029216,B. Brand,SV Wehen,Arminia Bielefeld,4,0,0,4,4
+2023-06-06 18:45:00,1029217,C. Dingert,Arminia Bielefeld,SV Wehen,1,2,2,3,-1

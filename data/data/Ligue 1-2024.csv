@@ -1,0 +1,309 @@
+date,id,referee,home_team,away_team,home_goals,away_goals,result,total_goals,goal_diff
+2024-08-16 18:45:00,1213754,W. Delajod,Le Havre,Paris Saint Germain,1,4,2,5,-3
+2024-08-17 15:00:00,1213747,B. Bastien,Stade Brestois 29,Marseille,1,5,2,6,-4
+2024-08-17 17:00:00,1213752,E. Wattellier,Reims,Lille,0,2,2,2,-2
+2024-08-17 19:00:00,1213751,C. Turpin,Monaco,Saint Etienne,1,0,0,1,1
+2024-08-18 13:00:00,1213753,R. Lissorgue,Auxerre,Nice,2,1,0,3,1
+2024-08-18 15:00:00,1213750,T. Léonard,Angers,Lens,0,1,2,1,-1
+2024-08-18 15:00:00,1213748,M. Vernice,Montpellier,Strasbourg,1,1,1,2,0
+2024-08-18 15:00:00,1213749,J. Stinat,Toulouse,Nantes,0,0,1,0,0
+2024-08-18 18:45:00,1213755,B. Millot,Rennes,Lyon,3,0,0,3,3
+2024-08-23 18:45:00,1213756,M. Bollengier,Paris Saint Germain,Montpellier,6,0,0,6,6
+2024-08-24 15:00:00,1213763,S. Frappart,Lyon,Monaco,0,2,2,2,-2
+2024-08-24 17:00:00,1213760,A. Kherradji,Lille,Angers,2,0,0,2,2
+2024-08-24 19:00:00,1213759,F. Batta,Saint Etienne,Le Havre,0,2,2,2,-2
+2024-08-25 13:00:00,1213762,J. Pignard,Lens,Stade Brestois 29,2,0,0,2,2
+2024-08-25 15:00:00,1213758,G. Angoula,Nantes,Auxerre,2,0,0,2,2
+2024-08-25 15:00:00,1213761,B. Dechepy,Nice,Toulouse,1,1,1,2,0
+2024-08-25 15:00:00,1213757,E. Wattellier,Strasbourg,Rennes,3,1,0,4,2
+2024-08-25 18:45:00,1213764,H. Ben El Hadj,Marseille,Reims,2,2,1,4,0
+2024-08-30 18:45:00,1213766,T. Léonard,Lyon,Strasbourg,4,3,0,7,1
+2024-08-31 15:00:00,1213767,G. Angoula,Stade Brestois 29,Saint Etienne,4,0,0,4,4
+2024-08-31 17:00:00,1213768,B. Millot,Montpellier,Nantes,1,3,2,4,-2
+2024-08-31 19:00:00,1213773,S. Frappart,Toulouse,Marseille,1,3,2,4,-2
+2024-09-01 13:00:00,1213770,W. Delajod,Monaco,Lens,1,1,1,2,0
+2024-09-01 15:00:00,1213769,J. Stinat,Angers,Nice,1,4,2,5,-3
+2024-09-01 15:00:00,1213772,M. Vernice,Reims,Rennes,2,1,0,3,1
+2024-09-01 15:00:00,1213771,M. Bollengier,Le Havre,Auxerre,3,1,0,4,2
+2024-09-01 18:45:00,1213765,B. Bastien,Lille,Paris Saint Germain,1,3,2,4,-2
+2024-09-13 18:45:00,1213780,F. Letexier,Saint Etienne,Lille,1,0,0,1,1
+2024-09-14 15:00:00,1213781,B. Millot,Marseille,Nice,2,0,0,2,2
+2024-09-14 17:00:00,1213774,A. Kherradji,Auxerre,Monaco,0,3,2,3,-3
+2024-09-14 19:00:00,1213782,C. Turpin,Paris Saint Germain,Stade Brestois 29,3,1,0,4,2
+2024-09-15 13:00:00,1213775,J. Pignard,Rennes,Montpellier,3,0,0,3,3
+2024-09-15 15:00:00,1213777,W. Delajod,Nantes,Reims,1,2,2,3,-1
+2024-09-15 15:00:00,1213779,H. Ben El Hadj,Strasbourg,Angers,1,1,1,2,0
+2024-09-15 15:00:00,1213778,E. Wattellier,Toulouse,Le Havre,2,0,0,2,2
+2024-09-15 18:45:00,1213776,B. Dechepy,Lens,Lyon,0,0,1,0,0
+2024-09-20 18:45:00,1213784,T. Léonard,Nice,Saint Etienne,8,0,0,8,8
+2024-09-21 15:00:00,1213789,J. Brisard,Lille,Strasbourg,3,3,1,6,0
+2024-09-21 17:00:00,1213790,J. Stinat,Rennes,Lens,1,1,1,2,0
+2024-09-21 19:00:00,1213785,J. Pignard,Reims,Paris Saint Germain,1,1,1,2,0
+2024-09-22 13:00:00,1213791,S. Frappart,Monaco,Le Havre,3,1,0,4,2
+2024-09-22 15:00:00,1213787,M. Vernice,Angers,Nantes,1,1,1,2,0
+2024-09-22 15:00:00,1213788,H. Ben El Hadj,Montpellier,Auxerre,3,2,0,5,1
+2024-09-22 15:00:00,1213786,F. Batta,Stade Brestois 29,Toulouse,2,0,0,2,2
+2024-09-22 18:45:00,1213783,B. Bastien,Lyon,Marseille,2,3,2,5,-1
+2024-09-27 17:00:00,1213794,J. Stinat,Auxerre,Stade Brestois 29,3,0,0,3,3
+2024-09-27 19:00:00,1213793,H. Ben El Hadj,Paris Saint Germain,Rennes,3,1,0,4,2
+2024-09-28 15:00:00,1213795,F. Letexier,Lens,Nice,0,0,1,0,0
+2024-09-28 17:00:00,1213797,B. Dechepy,Le Havre,Lille,0,3,2,3,-3
+2024-09-28 19:00:00,1213799,M. Bollengier,Monaco,Montpellier,2,1,0,3,1
+2024-09-29 13:00:00,1213798,G. Angoula,Toulouse,Lyon,1,2,2,3,-1
+2024-09-29 15:00:00,1213800,E. Wattellier,Angers,Reims,1,3,2,4,-2
+2024-09-29 15:00:00,1213796,A. Kherradji,Nantes,Saint Etienne,2,2,1,4,0
+2024-09-29 18:45:00,1213792,W. Delajod,Strasbourg,Marseille,1,0,0,1,1
+2024-10-04 18:45:00,1213806,R. Lissorgue,Marseille,Angers,1,1,1,2,0
+2024-10-05 15:00:00,1213804,M. Vernice,Saint Etienne,Auxerre,3,1,0,4,2
+2024-10-05 17:00:00,1213803,C. Turpin,Lille,Toulouse,2,1,0,3,1
+2024-10-05 19:00:00,1213807,T. Léonard,Rennes,Monaco,1,2,2,3,-1
+2024-10-06 13:00:00,1213801,M. Bollengier,Lyon,Nantes,2,0,0,2,2
+2024-10-06 15:00:00,1213809,B. Bastien,Reims,Montpellier,4,2,0,6,2
+2024-10-06 15:00:00,1213808,S. Frappart,Strasbourg,Lens,2,2,1,4,0
+2024-10-06 15:00:00,1213805,B. Millot,Stade Brestois 29,Le Havre,2,0,0,2,2
+2024-10-06 18:45:00,1213802,J. Brisard,Nice,Paris Saint Germain,1,1,1,2,0
+2024-10-18 18:45:00,1213815,E. Wattellier,Monaco,Lille,0,0,1,0,0
+2024-10-19 15:00:00,1213817,B. Dechepy,Stade Brestois 29,Rennes,1,1,1,2,0
+2024-10-19 17:00:00,1213816,R. Lissorgue,Saint Etienne,Lens,0,2,2,2,-2
+2024-10-19 19:00:00,1213818,J. Stinat,Paris Saint Germain,Strasbourg,4,2,0,6,2
+2024-10-20 13:00:00,1213812,A. Kherradji,Le Havre,Lyon,0,4,2,4,-4
+2024-10-20 15:00:00,1213813,G. Angoula,Nantes,Nice,1,1,1,2,0
+2024-10-20 15:00:00,1213811,W. Delajod,Toulouse,Angers,1,1,1,2,0
+2024-10-20 15:00:00,1213810,F. Batta,Auxerre,Reims,2,1,0,3,1
+2024-10-20 18:45:00,1213814,C. Turpin,Montpellier,Marseille,0,5,2,5,-5
+2024-10-25 18:45:00,1213825,F. Batta,Rennes,Le Havre,1,0,0,1,1
+2024-10-26 15:00:00,1213826,M. Bollengier,Angers,Saint Etienne,4,2,0,6,2
+2024-10-26 17:00:00,1213827,J. Brisard,Reims,Stade Brestois 29,1,2,2,3,-1
+2024-10-26 19:00:00,1213820,B. Bastien,Lens,Lille,0,2,2,2,-2
+2024-10-27 13:00:00,1213822,J. Stinat,Lyon,Auxerre,2,2,1,4,0
+2024-10-27 15:00:00,1213823,T. Léonard,Montpellier,Toulouse,0,3,2,3,-3
+2024-10-27 15:00:00,1213819,J. Pignard,Nice,Monaco,2,1,0,3,1
+2024-10-27 15:00:00,1213824,H. Ben El Hadj,Strasbourg,Nantes,3,1,0,4,2
+2024-10-27 19:45:00,1213821,F. Letexier,Marseille,Paris Saint Germain,0,3,2,3,-3
+2024-11-01 18:00:00,1213830,A. Kherradji,Monaco,Angers,0,1,2,1,-1
+2024-11-01 20:00:00,1213833,J. Brisard,Lille,Lyon,1,1,1,2,0
+2024-11-02 16:00:00,1213836,W. Delajod,Paris Saint Germain,Lens,1,0,0,1,1
+2024-11-02 18:00:00,1213835,C. Turpin,Stade Brestois 29,Nice,0,1,2,1,-1
+2024-11-02 20:00:00,1213834,E. Wattellier,Saint Etienne,Strasbourg,2,0,0,2,2
+2024-11-03 14:00:00,1213829,M. Vernice,Toulouse,Reims,1,0,0,1,1
+2024-11-03 16:00:00,1213828,G. Angoula,Auxerre,Rennes,4,0,0,4,4
+2024-11-03 16:00:00,1213831,S. Frappart,Le Havre,Montpellier,1,0,0,1,1
+2024-11-03 19:45:00,1213832,B. Dechepy,Nantes,Marseille,1,2,2,3,-1
+2024-11-08 19:45:00,1213837,M. Bollengier,Marseille,Auxerre,1,3,2,4,-2
+2024-11-09 16:00:00,1213841,B. Dechepy,Strasbourg,Monaco,1,3,2,4,-2
+2024-11-09 18:00:00,1213842,C. Turpin,Lens,Nantes,3,2,0,5,1
+2024-11-09 20:00:00,1213845,B. Millot,Angers,Paris Saint Germain,2,4,2,6,-2
+2024-11-10 14:00:00,1213844,J. Stinat,Nice,Lille,2,2,1,4,0
+2024-11-10 16:00:00,1213840,H. Ben El Hadj,Le Havre,Reims,0,3,2,3,-3
+2024-11-10 16:00:00,1213839,J. Pignard,Montpellier,Stade Brestois 29,3,1,0,4,2
+2024-11-10 16:00:00,1213843,R. Lissorgue,Rennes,Toulouse,0,2,2,2,-2
+2024-11-10 19:45:00,1213838,W. Delajod,Lyon,Saint Etienne,1,0,0,1,1
+2024-11-22 18:00:00,1213852,T. Léonard,Monaco,Stade Brestois 29,3,2,0,5,1
+2024-11-22 20:00:00,1213846,G. Angoula,Paris Saint Germain,Toulouse,3,0,0,3,3
+2024-11-23 16:00:00,1213847,E. Wattellier,Lens,Marseille,1,3,2,4,-2
+2024-11-23 18:00:00,1213849,F. Batta,Saint Etienne,Montpellier,1,0,0,1,1
+2024-11-23 20:00:00,1213854,S. Frappart,Reims,Lyon,1,1,1,2,0
+2024-11-24 14:00:00,1213850,M. Vernice,Lille,Rennes,1,0,0,1,1
+2024-11-24 16:00:00,1213851,J. Brisard,Nantes,Le Havre,0,2,2,2,-2
+2024-11-24 16:00:00,1213853,F. Letexier,Auxerre,Angers,1,0,0,1,1
+2024-11-24 19:45:00,1213848,B. Bastien,Nice,Strasbourg,2,1,0,3,1
+2024-11-29 19:45:00,1213855,A. Kherradji,Reims,Lens,0,2,2,2,-2
+2024-11-30 16:00:00,1213856,M. Bollengier,Rennes,Saint Etienne,5,0,0,5,5
+2024-11-30 18:00:00,1213859,R. Lissorgue,Stade Brestois 29,Strasbourg,3,1,0,4,2
+2024-11-30 20:00:00,1213861,J. Stinat,Paris Saint Germain,Nantes,1,1,1,2,0
+2024-12-01 14:00:00,1213860,B. Millot,Montpellier,Lille,2,2,1,4,0
+2024-12-01 16:00:00,1213857,W. Delajod,Le Havre,Angers,0,1,2,1,-1
+2024-12-01 16:00:00,1213858,H. Ben El Hadj,Toulouse,Auxerre,2,0,0,2,2
+2024-12-01 16:00:00,1213863,B. Dechepy,Lyon,Nice,4,1,0,5,3
+2024-12-01 19:45:00,1213862,C. Turpin,Marseille,Monaco,2,1,0,3,1
+2024-12-06 18:00:00,1213868,B. Bastien,Lille,Stade Brestois 29,3,1,0,4,2
+2024-12-06 20:00:00,1213865,J. Pignard,Auxerre,Paris Saint Germain,0,0,1,0,0
+2024-12-07 16:00:00,1213872,S. Frappart,Monaco,Toulouse,2,0,0,2,2
+2024-12-07 18:00:00,1213864,F. Letexier,Nice,Le Havre,2,1,0,3,1
+2024-12-07 20:00:00,1213867,M. Bollengier,Angers,Lyon,0,3,2,3,-3
+2024-12-08 14:00:00,1213869,M. Vernice,Lens,Montpellier,2,0,0,2,2
+2024-12-08 16:00:00,1213870,T. Léonard,Strasbourg,Reims,0,0,1,0,0
+2024-12-08 16:00:00,1213871,E. Wattellier,Nantes,Rennes,1,0,0,1,1
+2024-12-08 19:45:00,1213866,J. Brisard,Saint Etienne,Marseille,0,2,2,2,-2
+2024-12-13 19:45:00,1213877,T. Léonard,Toulouse,Saint Etienne,2,1,0,3,1
+2024-12-14 16:00:00,1213880,W. Delajod,Marseille,Lille,1,1,1,2,0
+2024-12-14 18:00:00,1213876,J. Stinat,Auxerre,Lens,2,2,1,4,0
+2024-12-14 20:00:00,1213875,R. Lissorgue,Reims,Monaco,0,0,1,0,0
+2024-12-15 14:00:00,1213878,C. Turpin,Montpellier,Nice,2,2,1,4,0
+2024-12-15 16:00:00,1213879,G. Angoula,Stade Brestois 29,Nantes,4,1,0,5,3
+2024-12-15 16:00:00,1213874,A. Kherradji,Le Havre,Strasbourg,0,3,2,3,-3
+2024-12-15 16:00:00,1213873,H. Ben El Hadj,Rennes,Angers,2,0,0,2,2
+2024-12-15 19:45:00,1213881,B. Bastien,Paris Saint Germain,Lyon,3,1,0,4,2
+2024-12-18 20:00:00,1213882,F. Letexier,Monaco,Paris Saint Germain,2,4,2,6,-2
+2025-01-03 20:00:00,1213890,J. Brisard,Nice,Rennes,3,2,0,5,1
+2025-01-04 16:00:00,1213885,S. Frappart,Saint Etienne,Reims,3,1,0,4,2
+2025-01-04 18:00:00,1213887,J. Pignard,Lille,Nantes,1,1,1,2,0
+2025-01-04 20:00:00,1213883,J. Stinat,Lyon,Montpellier,1,0,0,1,1
+2025-01-05 14:00:00,1213884,H. Ben El Hadj,Lens,Toulouse,0,1,2,1,-1
+2025-01-05 14:00:00,1213889,F. Batta,Strasbourg,Auxerre,3,1,0,4,2
+2025-01-05 14:00:00,1213886,B. Millot,Angers,Stade Brestois 29,2,0,0,2,2
+2025-01-05 19:45:00,1213888,T. Léonard,Marseille,Le Havre,5,1,0,6,4
+2025-01-10 18:00:00,1213892,M. Bollengier,Nantes,Monaco,2,2,1,4,0
+2025-01-10 20:05:00,1213893,G. Angoula,Auxerre,Lille,0,0,1,0,0
+2025-01-11 16:00:00,1213897,E. Wattellier,Stade Brestois 29,Lyon,2,1,0,3,1
+2025-01-11 18:00:00,1213894,W. Delajod,Reims,Nice,2,4,2,6,-2
+2025-01-11 20:05:00,1213899,A. Kherradji,Rennes,Marseille,1,2,2,3,-1
+2025-01-12 14:00:00,1213895,C. Turpin,Le Havre,Lens,1,2,2,3,-1
+2025-01-12 16:15:00,1213891,B. Bastien,Toulouse,Strasbourg,1,2,2,3,-1
+2025-01-12 16:15:00,1213896,R. Lissorgue,Montpellier,Angers,1,3,2,4,-2
+2025-01-12 19:45:00,1213898,B. Millot,Paris Saint Germain,Saint Etienne,2,1,0,3,1
+2025-01-17 18:00:00,1213905,J. Brisard,Montpellier,Monaco,2,1,0,3,1
+2025-01-17 20:05:00,1213902,F. Letexier,Lille,Nice,2,1,0,3,1
+2025-01-18 16:00:00,1213901,J. Pignard,Lens,Paris Saint Germain,1,2,2,3,-1
+2025-01-18 18:00:00,1213908,T. Léonard,Rennes,Stade Brestois 29,1,2,2,3,-1
+2025-01-18 20:05:00,1213903,B. Millot,Lyon,Toulouse,0,0,1,0,0
+2025-01-19 14:00:00,1213904,F. Batta,Saint Etienne,Nantes,1,1,1,2,0
+2025-01-19 16:15:00,1213907,S. Frappart,Angers,Auxerre,2,0,0,2,2
+2025-01-19 16:15:00,1213906,M. Vernice,Reims,Le Havre,1,1,1,2,0
+2025-01-19 19:45:00,1213900,B. Dechepy,Marseille,Strasbourg,1,1,1,2,0
+2025-01-24 19:45:00,1213914,M. Bollengier,Auxerre,Saint Etienne,1,1,1,2,0
+2025-01-25 16:00:00,1213911,J. Stinat,Monaco,Rennes,3,2,0,5,1
+2025-01-25 18:00:00,1213909,W. Delajod,Strasbourg,Lille,2,1,0,3,1
+2025-01-25 20:05:00,1213916,H. Ben El Hadj,Paris Saint Germain,Reims,1,1,1,2,0
+2025-01-26 14:00:00,1213913,R. Lissorgue,Le Havre,Stade Brestois 29,0,1,2,1,-1
+2025-01-26 16:15:00,1213910,B. Bastien,Nantes,Lyon,1,1,1,2,0
+2025-01-26 16:15:00,1213912,C. Turpin,Toulouse,Montpellier,1,2,2,3,-1
+2025-01-26 16:15:00,1213915,A. Kherradji,Lens,Angers,1,0,0,1,1
+2025-01-26 19:45:00,1213917,E. Wattellier,Nice,Marseille,2,0,0,2,2
+2025-01-31 19:45:00,1213920,B. Dechepy,Montpellier,Lens,0,2,2,2,-2
+2025-02-01 16:00:00,1213919,B. Bastien,Stade Brestois 29,Paris Saint Germain,2,5,2,7,-3
+2025-02-01 18:00:00,1213926,A. Kherradji,Monaco,Auxerre,4,2,0,6,2
+2025-02-01 20:05:00,1213921,E. Wattellier,Lille,Saint Etienne,4,1,0,5,3
+2025-02-02 14:00:00,1213924,T. Léonard,Toulouse,Nice,1,1,1,2,0
+2025-02-02 16:15:00,1213923,J. Pignard,Angers,Le Havre,1,1,1,2,0
+2025-02-02 16:15:00,1213922,B. Millot,Reims,Nantes,1,2,2,3,-1
+2025-02-02 16:15:00,1213925,S. Frappart,Rennes,Strasbourg,1,0,0,1,1
+2025-02-02 19:45:00,1213918,J. Brisard,Marseille,Lyon,3,2,0,5,1
+2025-02-07 18:00:00,1213928,J. Pignard,Nantes,Stade Brestois 29,0,2,2,2,-2
+2025-02-07 20:05:00,1213932,C. Turpin,Paris Saint Germain,Monaco,4,1,0,5,3
+2025-02-08 16:00:00,1213935,R. Lissorgue,Nice,Lens,2,0,0,2,2
+2025-02-08 18:00:00,1213930,T. Léonard,Lille,Le Havre,1,2,2,3,-1
+2025-02-08 20:05:00,1213931,M. Vernice,Saint Etienne,Rennes,0,2,2,2,-2
+2025-02-09 14:00:00,1213933,F. Letexier,Lyon,Reims,4,0,0,4,4
+2025-02-09 16:15:00,1213929,J. Stinat,Strasbourg,Montpellier,2,0,0,2,2
+2025-02-09 16:15:00,1213927,J. Brisard,Auxerre,Toulouse,2,2,1,4,0
+2025-02-09 19:45:00,1213934,H. Ben El Hadj,Angers,Marseille,0,2,2,2,-2
+2025-02-14 19:45:00,1213940,B. Dechepy,Stade Brestois 29,Auxerre,2,2,1,4,0
+2025-02-15 16:00:00,1213937,A. Kherradji,Marseille,Saint Etienne,5,1,0,6,4
+2025-02-15 18:00:00,1213944,T. Léonard,Monaco,Nantes,7,1,0,8,6
+2025-02-15 20:05:00,1213936,W. Delajod,Toulouse,Paris Saint Germain,0,1,2,1,-1
+2025-02-16 14:00:00,1213938,M. Bollengier,Montpellier,Lyon,1,4,2,5,-3
+2025-02-16 16:15:00,1213942,F. Batta,Reims,Angers,0,1,2,1,-1
+2025-02-16 16:15:00,1213943,S. Frappart,Le Havre,Nice,1,3,2,4,-2
+2025-02-16 16:15:00,1213939,B. Millot,Lens,Strasbourg,0,2,2,2,-2
+2025-02-16 19:45:00,1213941,R. Lissorgue,Rennes,Lille,0,2,2,2,-2
+2025-02-21 19:45:00,1213945,M. Bollengier,Rennes,Reims,1,0,0,1,1
+2025-02-22 16:00:00,1213947,B. Bastien,Lille,Monaco,2,1,0,3,1
+2025-02-22 18:00:00,1213950,B. Dechepy,Saint Etienne,Angers,3,3,1,6,0
+2025-02-22 20:05:00,1213951,J. Stinat,Auxerre,Marseille,3,0,0,3,3
+2025-02-23 14:00:00,1213949,J. Brisard,Nantes,Lens,3,1,0,4,2
+2025-02-23 16:15:00,1213952,W. Delajod,Nice,Montpellier,2,0,0,2,2
+2025-02-23 16:15:00,1213948,C. Turpin,Strasbourg,Stade Brestois 29,0,0,1,0,0
+2025-02-23 16:15:00,1213946,F. Letexier,Le Havre,Toulouse,1,4,2,5,-3
+2025-02-23 19:45:00,1213953,E. Wattellier,Lyon,Paris Saint Germain,2,3,2,5,-1
+2025-02-28 19:45:00,1213961,E. Wattellier,Monaco,Reims,3,0,0,3,3
+2025-03-01 16:00:00,1213958,J. Brisard,Saint Etienne,Nice,1,3,2,4,-2
+2025-03-01 18:00:00,1213959,J. Pignard,Lens,Le Havre,3,4,2,7,-1
+2025-03-01 20:05:00,1213954,F. Letexier,Paris Saint Germain,Lille,4,1,0,5,3
+2025-03-02 14:00:00,1213956,B. Millot,Lyon,Stade Brestois 29,2,1,0,3,1
+2025-03-02 16:15:00,1213962,J. Stinat,Angers,Toulouse,0,4,2,4,-4
+2025-03-02 16:15:00,1213957,F. Batta,Montpellier,Rennes,0,4,2,4,-4
+2025-03-02 16:15:00,1213960,M. Vernice,Auxerre,Strasbourg,0,1,2,1,-1
+2025-03-02 19:45:00,1213955,S. Frappart,Marseille,Nantes,2,0,0,2,2
+2025-03-07 19:45:00,1213966,M. Bollengier,Toulouse,Monaco,1,1,1,2,0
+2025-03-08 16:00:00,1213970,M. Vernice,Rennes,Paris Saint Germain,1,4,2,5,-3
+2025-03-08 18:00:00,1213969,J. Pignard,Lille,Montpellier,1,0,0,1,1
+2025-03-08 20:05:00,1213971,T. Léonard,Marseille,Lens,0,1,2,1,-1
+2025-03-09 14:00:00,1213968,A. Kherradji,Stade Brestois 29,Angers,2,0,0,2,2
+2025-03-09 16:15:00,1213963,C. Turpin,Le Havre,Saint Etienne,1,1,1,2,0
+2025-03-09 16:15:00,1213965,H. Ben El Hadj,Nantes,Strasbourg,0,1,2,1,-1
+2025-03-09 16:15:00,1213964,R. Lissorgue,Reims,Auxerre,0,2,2,2,-2
+2025-03-09 19:45:00,1213967,B. Bastien,Nice,Lyon,0,2,2,2,-2
+2025-03-14 19:45:00,1213973,A. Kherradji,Nice,Auxerre,1,1,1,2,0
+2025-03-15 16:00:00,1213979,B. Millot,Nantes,Lille,1,0,0,1,1
+2025-03-15 18:00:00,1213980,W. Delajod,Angers,Monaco,0,2,2,2,-2
+2025-03-15 20:05:00,1213977,S. Frappart,Lens,Rennes,1,0,0,1,1
+2025-03-16 14:00:00,1213976,B. Dechepy,Lyon,Le Havre,4,2,0,6,2
+2025-03-16 16:15:00,1213975,J. Brisard,Stade Brestois 29,Reims,0,0,1,0,0
+2025-03-16 16:15:00,1213974,F. Letexier,Montpellier,Saint Etienne,0,2,2,2,-2
+2025-03-16 16:15:00,1213978,F. Batta,Strasbourg,Toulouse,2,1,0,3,1
+2025-03-16 19:45:00,1213972,C. Turpin,Paris Saint Germain,Marseille,3,1,0,4,2
+2025-03-28 19:45:00,1213984,R. Lissorgue,Strasbourg,Lyon,4,2,0,6,2
+2025-03-29 16:00:00,1213987,W. Delajod,Reims,Marseille,3,1,0,4,2
+2025-03-29 18:00:00,1213986,J. Stinat,Saint Etienne,Paris Saint Germain,1,6,2,7,-5
+2025-03-29 20:05:00,1213989,J. Brisard,Monaco,Nice,2,1,0,3,1
+2025-03-30 13:00:00,1213985,H. Ben El Hadj,Toulouse,Stade Brestois 29,2,4,2,6,-2
+2025-03-30 15:15:00,1213983,E. Wattellier,Le Havre,Nantes,3,2,0,5,1
+2025-03-30 15:15:00,1213982,M. Bollengier,Auxerre,Montpellier,1,0,0,1,1
+2025-03-30 15:15:00,1213981,T. Léonard,Angers,Rennes,0,3,2,3,-3
+2025-03-30 18:45:00,1213988,M. Vernice,Lille,Lens,1,0,0,1,1
+2025-04-04 18:45:00,1213991,H. Ben El Hadj,Nice,Nantes,1,2,2,3,-1
+2025-04-05 15:00:00,1213996,M. Bollengier,Paris Saint Germain,Angers,1,0,0,1,1
+2025-04-05 17:00:00,1213992,T. Léonard,Stade Brestois 29,Monaco,2,1,0,3,1
+2025-04-05 19:05:00,1213994,E. Wattellier,Lyon,Lille,2,1,0,3,1
+2025-04-06 13:00:00,1213995,R. Lissorgue,Lens,Saint Etienne,1,0,0,1,1
+2025-04-06 15:15:00,1213997,C. Turpin,Reims,Strasbourg,0,1,2,1,-1
+2025-04-06 15:15:00,1213998,F. Batta,Rennes,Auxerre,0,1,2,1,-1
+2025-04-06 15:15:00,1213993,B. Bastien,Montpellier,Le Havre,0,2,2,2,-2
+2025-04-06 18:45:00,1213990,J. Pignard,Marseille,Toulouse,3,2,0,5,1
+2025-04-11 18:45:00,1214006,F. Letexier,Lens,Reims,0,2,2,2,-2
+2025-04-12 15:00:00,1214007,B. Bastien,Monaco,Marseille,3,0,0,3,3
+2025-04-12 17:00:00,1213999,J. Brisard,Toulouse,Lille,1,2,2,3,-1
+2025-04-12 19:05:00,1214003,J. Pignard,Strasbourg,Nice,2,2,1,4,0
+2025-04-13 13:00:00,1214004,A. Kherradji,Saint Etienne,Stade Brestois 29,3,3,1,6,0
+2025-04-13 15:15:00,1214005,B. Millot,Angers,Montpellier,2,0,0,2,2
+2025-04-13 15:15:00,1214000,W. Delajod,Le Havre,Rennes,1,5,2,6,-4
+2025-04-13 18:45:00,1214001,S. Frappart,Auxerre,Lyon,1,3,2,4,-2
+2025-04-18 18:45:00,1214016,A. Kherradji,Rennes,Nantes,2,1,0,3,1
+2025-04-19 15:00:00,1214012,M. Vernice,Paris Saint Germain,Le Havre,2,1,0,3,1
+2025-04-19 17:00:00,1214015,E. Wattellier,Monaco,Strasbourg,0,0,1,0,0
+2025-04-19 19:05:00,1214013,J. Brisard,Marseille,Montpellier,5,1,0,6,4
+2025-04-20 13:00:00,1214011,T. Léonard,Lille,Auxerre,3,1,0,4,2
+2025-04-20 15:15:00,1214014,M. Bollengier,Reims,Toulouse,1,0,0,1,1
+2025-04-20 15:15:00,1214010,B. Millot,Stade Brestois 29,Lens,1,3,2,4,-2
+2025-04-20 15:15:00,1214009,J. Stinat,Nice,Angers,2,1,0,3,1
+2025-04-20 18:45:00,1214008,F. Letexier,Saint Etienne,Lyon,2,1,0,3,1
+2025-04-22 18:45:00,1214002,J. Pignard,Nantes,Paris Saint Germain,1,1,1,2,0
+2025-04-25 18:45:00,1214023,W. Delajod,Paris Saint Germain,Nice,1,3,2,4,-2
+2025-04-26 15:00:00,1214018,B. Bastien,Strasbourg,Saint Etienne,3,1,0,4,2
+2025-04-26 17:00:00,1214017,C. Turpin,Le Havre,Monaco,1,1,1,2,0
+2025-04-26 19:05:00,1214025,M. Bollengier,Lyon,Rennes,4,1,0,5,3
+2025-04-27 13:00:00,1214022,H. Ben El Hadj,Angers,Lille,0,2,2,2,-2
+2025-04-27 15:15:00,1214020,J. Pignard,Montpellier,Reims,0,0,1,0,0
+2025-04-27 15:15:00,1214019,F. Batta,Nantes,Toulouse,0,0,1,0,0
+2025-04-27 15:15:00,1214021,M. Vernice,Lens,Auxerre,0,4,2,4,-4
+2025-04-27 18:45:00,1214024,S. Frappart,Marseille,Stade Brestois 29,4,1,0,5,3
+2025-05-02 18:45:00,1214028,A. Kherradji,Nice,Reims,1,0,0,1,1
+2025-05-03 15:00:00,1214033,H. Ben El Hadj,Strasbourg,Paris Saint Germain,2,1,0,3,1
+2025-05-03 17:00:00,1214032,B. Millot,Toulouse,Rennes,2,1,0,3,1
+2025-05-03 19:05:00,1214030,J. Brisard,Saint Etienne,Monaco,1,3,2,4,-2
+2025-05-04 13:00:00,1214031,T. Léonard,Nantes,Angers,0,1,2,1,-1
+2025-05-04 15:15:00,1214026,J. Stinat,Lyon,Lens,1,2,2,3,-1
+2025-05-04 15:15:00,1214029,R. Lissorgue,Stade Brestois 29,Montpellier,1,0,0,1,1
+2025-05-04 15:15:00,1214034,J. Pignard,Auxerre,Le Havre,1,2,2,3,-1
+2025-05-04 18:45:00,1214027,E. Wattellier,Lille,Marseille,1,1,1,2,0
+2025-05-10 19:00:00,1214037,C. Turpin,Angers,Strasbourg,2,1,0,3,1
+2025-05-10 19:00:00,1214036,M. Bollengier,Auxerre,Nantes,1,1,1,2,0
+2025-05-10 19:00:00,1214042,T. Léonard,Stade Brestois 29,Lille,2,0,0,2,2
+2025-05-10 19:00:00,1214041,B. Dechepy,Toulouse,Lens,1,1,1,2,0
+2025-05-10 19:00:00,1214038,W. Delajod,Le Havre,Marseille,1,3,2,4,-2
+2025-05-10 19:00:00,1214035,E. Wattellier,Reims,Saint Etienne,0,2,2,2,-2
+2025-05-10 19:00:00,1214043,B. Bastien,Monaco,Lyon,2,0,0,2,2
+2025-05-10 19:00:00,1214040,M. Vernice,Montpellier,Paris Saint Germain,1,4,2,5,-3
+2025-05-10 19:00:00,1214039,J. Stinat,Rennes,Nice,2,0,0,2,2
+2025-05-17 19:00:00,1214051,F. Letexier,Lens,Monaco,4,0,0,4,4
+2025-05-17 19:00:00,1214048,W. Delajod,Lille,Reims,2,1,0,3,1
+2025-05-17 19:00:00,1214045,S. Frappart,Lyon,Angers,2,0,0,2,2
+2025-05-17 19:00:00,1214044,J. Pignard,Marseille,Rennes,4,2,0,6,2
+2025-05-17 19:00:00,1214050,C. Turpin,Nantes,Montpellier,3,0,0,3,3
+2025-05-17 19:00:00,1214046,H. Ben El Hadj,Nice,Stade Brestois 29,6,0,0,6,6
+2025-05-17 19:00:00,1214052,A. Kherradji,Paris Saint Germain,Auxerre,3,1,0,4,2
+2025-05-17 19:00:00,1214049,J. Brisard,Strasbourg,Le Havre,2,3,2,5,-1
+2025-05-17 19:00:00,1214047,T. Léonard,Saint Etienne,Toulouse,2,3,2,5,-1
+2025-05-21 18:00:00,1375858,H. Ben El Hadj,Metz,Reims,1,1,1,2,0
+2025-05-29 18:30:00,1375859,E. Wattellier,Reims,Metz,1,3,2,4,-2

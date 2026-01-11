@@ -1,0 +1,381 @@
+date,id,referee,home_team,away_team,home_goals,away_goals,result,total_goals,goal_diff
+2022-08-12 19:00:00,877947,Carlos del Cerro,Osasuna,Sevilla,2,1,0,3,1
+2022-08-13 15:00:00,877945,Miguel Ortiz,Celta Vigo,Espanyol,2,2,1,4,0
+2022-08-13 17:00:00,877950,Mario Melero,Valladolid,Villarreal,0,3,2,3,-3
+2022-08-13 19:00:00,877943,Alejandro Hernández,Barcelona,Rayo Vallecano,0,0,1,0,0
+2022-08-14 15:30:00,877946,Isidro Díaz de Mera,Cadiz,Real Sociedad,0,1,2,1,-1
+2022-08-14 17:30:00,877951,Jorge Figueroa,Valencia,Girona,1,0,0,1,1
+2022-08-14 20:00:00,877948,Juan Martínez,Almeria,Real Madrid,1,2,2,3,-1
+2022-08-15 15:30:00,877942,Javier Iglesias,Athletic Club,Mallorca,0,0,1,0,0
+2022-08-15 17:30:00,877949,José Sánchez,Getafe,Atletico Madrid,0,3,2,3,-3
+2022-08-15 19:30:00,877944,Guillermo Cuadra,Real Betis,Elche,3,0,0,3,3
+2022-08-19 18:00:00,877955,Jorge Figueroa,Espanyol,Rayo Vallecano,0,2,2,2,-2
+2022-08-19 20:00:00,877956,Juan Pulido,Sevilla,Valladolid,1,1,1,2,0
+2022-08-20 15:30:00,877960,Antonio Mateu,Osasuna,Cadiz,2,0,0,2,2
+2022-08-20 17:30:00,877958,Pablo González,Mallorca,Real Betis,1,2,2,3,-1
+2022-08-20 20:00:00,877954,Jesús Gil,Celta Vigo,Real Madrid,1,4,2,5,-3
+2022-08-21 15:30:00,877952,César Soto,Athletic Club,Valencia,1,0,0,1,1
+2022-08-21 17:30:00,877953,Ricardo De Burgos,Atletico Madrid,Villarreal,0,2,2,2,-2
+2022-08-21 20:00:00,877957,José Munuera,Real Sociedad,Barcelona,1,4,2,5,-3
+2022-08-22 18:00:00,877961,Isidro Díaz de Mera,Elche,Almeria,1,1,1,2,0
+2022-08-22 20:00:00,877959,Alejandro Muñiz,Girona,Getafe,3,1,0,4,2
+2022-08-26 18:00:00,877970,Carlos del Cerro,Girona,Celta Vigo,0,1,2,1,-1
+2022-08-26 20:00:00,877963,Juan Martínez,Real Betis,Osasuna,1,0,0,1,1
+2022-08-27 15:30:00,877964,Javier Iglesias,Elche,Real Sociedad,0,1,2,1,-1
+2022-08-27 17:30:00,877971,José Sánchez,Rayo Vallecano,Mallorca,0,2,2,2,-2
+2022-08-27 20:00:00,877967,Jesús Gil,Almeria,Sevilla,2,1,0,3,1
+2022-08-28 15:30:00,877965,Jorge Figueroa,Getafe,Villarreal,0,0,1,0,0
+2022-08-28 17:30:00,877962,Ricardo De Burgos,Barcelona,Valladolid,4,0,0,4,4
+2022-08-28 20:00:00,877966,Mario Melero,Espanyol,Real Madrid,1,3,2,4,-2
+2022-08-29 18:00:00,877968,Miguel Ortiz,Cadiz,Athletic Club,0,4,2,4,-4
+2022-08-29 20:00:00,877969,Guillermo Cuadra,Valencia,Atletico Madrid,0,1,2,1,-1
+2022-09-02 19:00:00,877979,Juan Pulido,Celta Vigo,Cadiz,3,0,0,3,3
+2022-09-03 12:00:00,877981,Isidro Díaz de Mera,Mallorca,Girona,1,1,1,2,0
+2022-09-03 14:15:00,877976,José Sánchez,Real Madrid,Real Betis,2,1,0,3,1
+2022-09-03 16:30:00,877974,César Soto,Real Sociedad,Atletico Madrid,1,1,1,2,0
+2022-09-03 19:00:00,877975,Antonio Mateu,Sevilla,Barcelona,0,3,2,3,-3
+2022-09-04 12:00:00,877973,Alejandro Muñiz,Osasuna,Rayo Vallecano,2,1,0,3,1
+2022-09-04 14:15:00,877972,Juan Martínez,Athletic Club,Espanyol,0,1,2,1,-1
+2022-09-04 16:30:00,877977,Miguel Ortiz,Villarreal,Elche,4,0,0,4,4
+2022-09-04 19:00:00,877978,José Munuera,Valencia,Getafe,5,1,0,6,4
+2022-09-05 19:00:00,877980,Pablo González,Valladolid,Almeria,1,0,0,1,1
+2022-09-09 19:00:00,877988,César Soto,Girona,Valladolid,2,1,0,3,1
+2022-09-10 12:00:00,877986,Jesús Gil,Rayo Vallecano,Valencia,2,1,0,3,1
+2022-09-10 14:15:00,877985,Guillermo Cuadra,Espanyol,Sevilla,2,3,2,5,-1
+2022-09-10 16:30:00,877990,Carlos del Cerro,Cadiz,Barcelona,0,4,2,4,-4
+2022-09-10 19:00:00,877982,Alejandro Hernández,Atletico Madrid,Celta Vigo,4,1,0,5,3
+2022-09-11 12:00:00,877991,Jorge Figueroa,Real Madrid,Mallorca,4,1,0,5,3
+2022-09-11 14:15:00,877989,Mario Melero,Elche,Athletic Club,1,4,2,5,-3
+2022-09-11 16:30:00,877984,Juan Pulido,Getafe,Real Sociedad,2,1,0,3,1
+2022-09-11 19:00:00,877983,Ricardo De Burgos,Real Betis,Villarreal,1,0,0,1,1
+2022-09-12 19:00:00,877987,Javier Iglesias,Almeria,Osasuna,0,1,2,1,-1
+2022-09-16 19:00:00,877998,José Sánchez,Valladolid,Cadiz,0,1,2,1,-1
+2022-09-17 12:00:00,878001,Juan Martínez,Mallorca,Almeria,1,0,0,1,1
+2022-09-17 14:15:00,877994,Alejandro Muñiz,Barcelona,Elche,3,0,0,3,3
+2022-09-17 16:30:00,877996,Pablo González,Valencia,Celta Vigo,3,0,0,3,3
+2022-09-17 19:00:00,877992,Antonio Mateu,Athletic Club,Rayo Vallecano,3,2,0,5,1
+2022-09-18 12:00:00,877997,Isidro Díaz de Mera,Osasuna,Getafe,0,2,2,2,-2
+2022-09-18 14:15:00,878000,Alejandro Hernández,Villarreal,Sevilla,1,1,1,2,0
+2022-09-18 16:30:00,877999,Carlos del Cerro,Real Sociedad,Espanyol,2,1,0,3,1
+2022-09-18 16:30:00,877995,Miguel Ortiz,Real Betis,Girona,2,1,0,3,1
+2022-09-18 19:00:00,877993,José Munuera,Atletico Madrid,Real Madrid,1,2,2,3,-1
+2022-09-30 19:00:00,878011,Juan Pulido,Athletic Club,Almeria,4,0,0,4,4
+2022-10-01 12:00:00,878003,Javier Iglesias,Cadiz,Villarreal,0,0,1,0,0
+2022-10-01 14:15:00,878002,Alejandro Muñiz,Getafe,Valladolid,2,3,2,5,-1
+2022-10-01 16:30:00,878006,Ricardo De Burgos,Sevilla,Atletico Madrid,0,2,2,2,-2
+2022-10-01 19:00:00,878007,Jesús Gil,Mallorca,Barcelona,0,1,2,1,-1
+2022-10-02 12:00:00,878004,Valentín Pizarro,Espanyol,Valencia,2,2,1,4,0
+2022-10-02 14:15:00,878008,César Soto,Celta Vigo,Real Betis,1,0,0,1,1
+2022-10-02 16:30:00,878005,Mario Melero,Girona,Real Sociedad,3,5,2,8,-2
+2022-10-02 19:00:00,878010,Guillermo Cuadra,Real Madrid,Osasuna,1,1,1,2,0
+2022-10-03 19:00:00,878009,Jorge Figueroa,Rayo Vallecano,Elche,2,1,0,3,1
+2022-10-07 19:00:00,878017,Miguel Ortiz,Osasuna,Valencia,1,2,2,3,-1
+2022-10-08 12:00:00,878019,Pablo González,Almeria,Rayo Vallecano,3,1,0,4,2
+2022-10-08 14:15:00,878012,Juan Martínez,Atletico Madrid,Girona,2,1,0,3,1
+2022-10-08 16:30:00,878020,Jesús Gil,Sevilla,Athletic Club,1,1,1,2,0
+2022-10-08 19:00:00,878015,Antonio Mateu,Getafe,Real Madrid,0,1,2,1,-1
+2022-10-09 12:00:00,878021,Carlos del Cerro,Valladolid,Real Betis,0,0,1,0,0
+2022-10-09 14:15:00,878016,Alejandro Hernández,Cadiz,Espanyol,2,2,1,4,0
+2022-10-09 16:30:00,878018,César Soto,Real Sociedad,Villarreal,1,0,0,1,1
+2022-10-09 19:00:00,878013,José Munuera,Barcelona,Celta Vigo,1,0,0,1,1
+2022-10-10 19:00:00,878014,Valentín Pizarro,Elche,Mallorca,1,1,1,2,0
+2022-10-14 19:00:00,878028,Mario Melero,Rayo Vallecano,Getafe,0,0,1,0,0
+2022-10-15 12:00:00,878029,Ricardo De Burgos,Girona,Cadiz,1,1,1,2,0
+2022-10-15 14:15:00,878027,Juan Pulido,Valencia,Elche,2,2,1,4,0
+2022-10-15 16:30:00,878024,Javier Iglesias,Mallorca,Sevilla,0,1,2,1,-1
+2022-10-15 19:00:00,878022,Jorge Figueroa,Athletic Club,Atletico Madrid,0,1,2,1,-1
+2022-10-16 12:00:00,878023,Guillermo Cuadra,Celta Vigo,Real Sociedad,1,2,2,3,-1
+2022-10-16 14:15:00,878026,José Sánchez,Real Madrid,Barcelona,3,1,0,4,2
+2022-10-16 16:30:00,878025,Antonio Mateu,Espanyol,Valladolid,1,0,0,1,1
+2022-10-16 19:00:00,878031,Alejandro Muñiz,Real Betis,Almeria,3,1,0,4,2
+2022-10-17 19:00:00,878030,Pablo González,Villarreal,Osasuna,2,0,0,2,2
+2022-10-18 17:00:00,878035,César Soto,Sevilla,Valencia,1,1,1,2,0
+2022-10-18 18:00:00,878037,José Munuera,Getafe,Athletic Club,2,2,1,4,0
+2022-10-18 19:00:00,878032,Javier Iglesias,Atletico Madrid,Rayo Vallecano,1,1,1,2,0
+2022-10-19 17:00:00,878038,Antonio Mateu,Cadiz,Real Betis,0,0,1,0,0
+2022-10-19 17:00:00,878039,Valentín Pizarro,Valladolid,Celta Vigo,4,1,0,5,3
+2022-10-19 18:00:00,878040,Miguel Ortiz,Real Sociedad,Mallorca,1,0,0,1,1
+2022-10-19 19:00:00,878034,Jesús Gil,Elche,Real Madrid,0,3,2,3,-3
+2022-10-20 17:00:00,878036,Guillermo Cuadra,Almeria,Girona,3,2,0,5,1
+2022-10-20 18:00:00,878041,Mario Melero,Osasuna,Espanyol,1,0,0,1,1
+2022-10-20 19:00:00,878033,Carlos del Cerro,Barcelona,Villarreal,3,0,0,3,3
+2022-10-22 12:00:00,878049,Alejandro Muñiz,Rayo Vallecano,Cadiz,5,1,0,6,4
+2022-10-22 14:15:00,878050,Jorge Figueroa,Valladolid,Real Sociedad,1,0,0,1,1
+2022-10-22 16:30:00,878048,José Sánchez,Valencia,Mallorca,1,2,2,3,-1
+2022-10-22 19:00:00,878043,Alejandro Hernández,Real Madrid,Sevilla,3,1,0,4,2
+2022-10-23 12:00:00,878047,José Munuera,Espanyol,Elche,2,2,1,4,0
+2022-10-23 14:15:00,878046,Jesús Gil,Real Betis,Atletico Madrid,1,2,2,3,-1
+2022-10-23 16:30:00,878051,Ricardo De Burgos,Villarreal,Almeria,2,1,0,3,1
+2022-10-23 16:30:00,878044,Juan Pulido,Girona,Osasuna,1,1,1,2,0
+2022-10-23 19:00:00,878045,Juan Martínez,Barcelona,Athletic Club,4,0,0,4,4
+2022-10-24 19:00:00,878042,Pablo González,Celta Vigo,Getafe,1,1,1,2,0
+2022-10-28 19:00:00,878059,Isidro Díaz de Mera,Mallorca,Espanyol,1,1,1,2,0
+2022-10-29 12:00:00,878055,Carlos del Cerro,Almeria,Celta Vigo,3,1,0,4,2
+2022-10-29 14:15:00,878056,José Sánchez,Cadiz,Atletico Madrid,3,2,0,5,1
+2022-10-29 16:30:00,878060,Antonio Mateu,Sevilla,Rayo Vallecano,0,1,2,1,-1
+2022-10-29 19:00:00,878057,Ricardo De Burgos,Valencia,Barcelona,0,1,2,1,-1
+2022-10-30 13:00:00,878054,Guillermo Cuadra,Osasuna,Valladolid,2,0,0,2,2
+2022-10-30 15:15:00,878061,Mario Melero,Real Madrid,Girona,1,1,1,2,0
+2022-10-30 17:30:00,878052,Miguel Ortiz,Athletic Club,Villarreal,1,0,0,1,1
+2022-10-30 20:00:00,878058,Javier Iglesias,Real Sociedad,Real Betis,0,2,2,2,-2
+2022-10-31 20:00:00,878053,César Soto,Elche,Getafe,0,1,2,1,-1
+2022-11-04 20:00:00,878067,Valentín Pizarro,Girona,Athletic Club,2,1,0,3,1
+2022-11-05 13:00:00,878070,Alejandro Hernández,Getafe,Cadiz,0,0,1,0,0
+2022-11-05 15:15:00,878068,Ricardo De Burgos,Valladolid,Elche,2,1,0,3,1
+2022-11-05 17:30:00,878064,Jorge Figueroa,Celta Vigo,Osasuna,1,2,2,3,-1
+2022-11-05 20:00:00,878071,Pablo González,Barcelona,Almeria,2,0,0,2,2
+2022-11-06 13:00:00,878062,Juan Pulido,Atletico Madrid,Espanyol,1,1,1,2,0
+2022-11-06 15:15:00,878065,José Munuera,Real Sociedad,Valencia,1,1,1,2,0
+2022-11-06 17:30:00,878069,Alejandro Muñiz,Villarreal,Mallorca,0,2,2,2,-2
+2022-11-06 20:00:00,878063,José Sánchez,Real Betis,Sevilla,1,1,1,2,0
+2022-11-07 20:00:00,878066,Juan Martínez,Rayo Vallecano,Real Madrid,3,2,0,5,1
+2022-11-08 18:00:00,878073,Pablo González,Elche,Girona,1,2,2,3,-1
+2022-11-08 19:00:00,878072,Isidro Díaz de Mera,Athletic Club,Valladolid,3,0,0,3,3
+2022-11-08 20:30:00,878077,Jesús Gil,Osasuna,Barcelona,1,2,2,3,-1
+2022-11-09 18:00:00,878081,Carlos del Cerro,Sevilla,Real Sociedad,1,2,2,3,-1
+2022-11-09 18:00:00,878075,Alejandro Muñiz,Almeria,Getafe,1,0,0,1,1
+2022-11-09 19:00:00,878074,Javier Iglesias,Espanyol,Villarreal,0,1,2,1,-1
+2022-11-09 20:30:00,878076,Mario Melero,Mallorca,Atletico Madrid,1,0,0,1,1
+2022-11-10 18:00:00,878079,José Munuera,Rayo Vallecano,Celta Vigo,0,0,1,0,0
+2022-11-10 19:00:00,878078,Miguel Ortiz,Valencia,Real Betis,3,0,0,3,3
+2022-11-10 20:30:00,878080,César Soto,Real Madrid,Cadiz,2,1,0,3,1
+2022-12-29 16:00:00,878086,Jorge Figueroa,Girona,Rayo Vallecano,2,2,1,4,0
+2022-12-29 18:15:00,878087,Alejandro Hernández,Real Betis,Athletic Club,0,0,1,0,0
+2022-12-29 20:30:00,878082,Guillermo Cuadra,Atletico Madrid,Elche,2,0,0,2,2
+2022-12-30 16:00:00,878085,Javier Alberola,Getafe,Mallorca,2,0,0,2,2
+2022-12-30 18:15:00,878084,Ricardo De Burgos,Celta Vigo,Sevilla,1,1,1,2,0
+2022-12-30 18:15:00,878091,Juan Martínez,Cadiz,Almeria,1,1,1,2,0
+2022-12-30 20:30:00,878089,José Munuera,Valladolid,Real Madrid,0,2,2,2,-2
+2022-12-31 13:00:00,878083,Antonio Mateu,Barcelona,Espanyol,1,1,1,2,0
+2022-12-31 15:15:00,878090,José Sánchez,Villarreal,Valencia,2,1,0,3,1
+2022-12-31 15:15:00,878088,Valentín Pizarro,Real Sociedad,Osasuna,2,0,0,2,2
+2023-01-06 17:30:00,878098,Miguel Ortiz,Elche,Celta Vigo,0,1,2,1,-1
+2023-01-06 20:00:00,878100,Pablo González,Valencia,Cadiz,0,1,2,1,-1
+2023-01-07 15:15:00,878101,César Soto,Villarreal,Real Madrid,2,1,0,3,1
+2023-01-07 17:30:00,878094,Valentín Pizarro,Mallorca,Valladolid,1,0,0,1,1
+2023-01-07 20:00:00,878095,Carlos del Cerro,Espanyol,Girona,2,2,1,4,0
+2023-01-08 13:00:00,878096,Javier Alberola,Almeria,Real Sociedad,0,2,2,2,-2
+2023-01-08 15:15:00,878097,Isidro Díaz de Mera,Rayo Vallecano,Real Betis,1,2,2,3,-1
+2023-01-08 17:30:00,878099,Juan Martínez,Sevilla,Getafe,2,1,0,3,1
+2023-01-08 20:00:00,878093,José Munuera,Atletico Madrid,Barcelona,0,1,2,1,-1
+2023-01-09 20:00:00,878092,Mario Melero,Athletic Club,Osasuna,0,0,1,0,0
+2023-01-13 20:00:00,878102,Javier Alberola,Celta Vigo,Villarreal,1,1,1,2,0
+2023-01-14 13:00:00,878111,Mario Melero,Valladolid,Rayo Vallecano,0,1,2,1,-1
+2023-01-14 15:15:00,878106,Valentín Pizarro,Girona,Sevilla,2,1,0,3,1
+2023-01-14 17:30:00,878109,César Soto,Osasuna,Mallorca,1,0,0,1,1
+2023-01-14 20:00:00,878107,Guillermo Cuadra,Real Sociedad,Athletic Club,3,1,0,4,2
+2023-01-15 13:00:00,878110,Jorge Figueroa,Getafe,Espanyol,1,2,2,3,-1
+2023-01-15 15:15:00,878105,José Sánchez,Almeria,Atletico Madrid,1,1,1,2,0
+2023-01-16 20:00:00,878103,Carlos del Cerro,Cadiz,Elche,1,1,1,2,0
+2023-01-20 20:00:00,878118,Juan Pulido,Mallorca,Celta Vigo,1,0,0,1,1
+2023-01-21 13:00:00,878116,Antonio Mateu,Rayo Vallecano,Real Sociedad,0,2,2,2,-2
+2023-01-21 15:15:00,878117,Pablo González,Espanyol,Real Betis,1,0,0,1,1
+2023-01-21 17:30:00,878113,Ricardo De Burgos,Atletico Madrid,Valladolid,3,0,0,3,3
+2023-01-21 20:00:00,878119,Alejandro Hernández,Sevilla,Cadiz,1,0,0,1,1
+2023-01-22 13:00:00,878121,Carlos del Cerro,Villarreal,Girona,1,0,0,1,1
+2023-01-22 15:15:00,878115,Alejandro Muñiz,Elche,Osasuna,1,1,1,2,0
+2023-01-22 17:30:00,878114,Javier Iglesias,Barcelona,Getafe,1,0,0,1,1
+2023-01-22 20:00:00,878112,José Sánchez,Athletic Club,Real Madrid,0,2,2,2,-2
+2023-01-23 20:00:00,878120,Jesús Gil,Valencia,Almeria,2,2,1,4,0
+2023-01-27 20:00:00,878124,Javier Iglesias,Almeria,Espanyol,3,1,0,4,2
+2023-01-28 13:00:00,878122,Ricardo De Burgos,Cadiz,Mallorca,2,0,0,2,2
+2023-01-28 15:15:00,878127,Alejandro Muñiz,Girona,Barcelona,0,1,2,1,-1
+2023-01-28 17:30:00,878129,César Soto,Sevilla,Elche,3,0,0,3,3
+2023-01-28 20:00:00,878128,Guillermo Cuadra,Getafe,Real Betis,0,1,2,1,-1
+2023-01-29 13:00:00,878130,Jorge Figueroa,Valladolid,Valencia,1,0,0,1,1
+2023-01-29 15:15:00,878126,Javier Alberola,Osasuna,Atletico Madrid,0,1,2,1,-1
+2023-01-29 17:30:00,878125,Isidro Díaz de Mera,Celta Vigo,Athletic Club,1,0,0,1,1
+2023-01-29 20:00:00,878123,Mario Melero,Real Madrid,Real Sociedad,0,0,1,0,0
+2023-01-30 20:00:00,878131,Juan Pulido,Villarreal,Rayo Vallecano,0,1,2,1,-1
+2023-02-01 20:00:00,878108,Ricardo De Burgos,Real Betis,Barcelona,1,2,2,3,-1
+2023-02-02 20:00:00,878104,Javier Alberola,Real Madrid,Valencia,2,0,0,2,2
+2023-02-03 20:00:00,878132,Valentín Pizarro,Athletic Club,Cadiz,4,1,0,5,3
+2023-02-04 13:00:00,878138,Jesús Gil,Espanyol,Osasuna,1,1,1,2,0
+2023-02-04 15:15:00,878136,José Munuera,Elche,Villarreal,3,1,0,4,2
+2023-02-04 17:30:00,878133,Antonio Mateu,Atletico Madrid,Getafe,1,1,1,2,0
+2023-02-04 20:00:00,878135,Carlos del Cerro,Real Betis,Celta Vigo,3,4,2,7,-1
+2023-02-05 13:00:00,878137,Alejandro Hernández,Mallorca,Real Madrid,1,0,0,1,1
+2023-02-05 15:15:00,878140,Javier Iglesias,Girona,Valencia,1,0,0,1,1
+2023-02-05 17:30:00,878139,Pablo González,Real Sociedad,Valladolid,0,1,2,1,-1
+2023-02-05 20:00:00,878134,José Sánchez,Barcelona,Sevilla,3,0,0,3,3
+2023-02-06 20:00:00,878141,César Soto,Rayo Vallecano,Almeria,2,0,0,2,2
+2023-02-10 20:00:00,878143,Juan Pulido,Cadiz,Girona,2,0,0,2,2
+2023-02-11 15:15:00,878145,Javier Alberola,Almeria,Real Betis,2,3,2,5,-1
+2023-02-11 17:30:00,878150,Javier Iglesias,Sevilla,Mallorca,2,0,0,2,2
+2023-02-11 20:00:00,878146,César Soto,Valencia,Athletic Club,1,2,2,3,-1
+2023-02-12 13:00:00,878142,Isidro Díaz de Mera,Getafe,Rayo Vallecano,1,1,1,2,0
+2023-02-12 15:15:00,878147,Jorge Figueroa,Celta Vigo,Atletico Madrid,0,1,2,1,-1
+2023-02-12 17:30:00,878151,Guillermo Cuadra,Valladolid,Osasuna,0,0,1,0,0
+2023-02-12 20:00:00,878148,Alejandro Hernández,Villarreal,Barcelona,0,1,2,1,-1
+2023-02-13 20:00:00,878144,Alejandro Muñiz,Espanyol,Real Sociedad,2,3,2,5,-1
+2023-02-15 20:00:00,878149,Ricardo De Burgos,Real Madrid,Elche,4,0,0,4,4
+2023-02-17 20:00:00,878161,Valentín Pizarro,Girona,Almeria,6,2,0,8,4
+2023-02-18 13:00:00,878160,Miguel Ortiz,Real Sociedad,Celta Vigo,1,1,1,2,0
+2023-02-18 15:15:00,878153,Antonio Mateu,Real Betis,Valladolid,2,1,0,3,1
+2023-02-18 17:30:00,878155,José Sánchez,Mallorca,Villarreal,4,2,0,6,2
+2023-02-18 20:00:00,878157,José Munuera,Osasuna,Real Madrid,0,2,2,2,-2
+2023-02-19 13:00:00,878154,Carlos del Cerro,Elche,Espanyol,0,1,2,1,-1
+2023-02-19 15:15:00,878158,Jesús Gil,Rayo Vallecano,Sevilla,1,1,1,2,0
+2023-02-19 17:30:00,878159,Juan Martínez,Atletico Madrid,Athletic Club,1,0,0,1,1
+2023-02-19 20:00:00,878152,Pablo González,Barcelona,Cadiz,2,0,0,2,2
+2023-02-20 20:00:00,878156,Mario Melero,Getafe,Valencia,1,0,0,1,1
+2023-02-24 20:00:00,878168,Javier Iglesias,Elche,Real Betis,2,3,2,5,-1
+2023-02-25 13:00:00,878165,Javier Alberola,Espanyol,Mallorca,2,1,0,3,1
+2023-02-25 15:15:00,878164,Alejandro Muñiz,Cadiz,Rayo Vallecano,1,0,0,1,1
+2023-02-25 17:30:00,878167,Jesús Gil,Real Madrid,Atletico Madrid,1,1,1,2,0
+2023-02-25 20:00:00,878171,Alejandro Hernández,Valencia,Real Sociedad,1,0,0,1,1
+2023-02-26 13:00:00,878162,Isidro Díaz de Mera,Athletic Club,Girona,2,3,2,5,-1
+2023-02-26 15:15:00,878163,Ricardo De Burgos,Celta Vigo,Valladolid,3,0,0,3,3
+2023-02-26 17:30:00,878166,Miguel Ortiz,Almeria,Barcelona,1,0,0,1,1
+2023-02-26 20:00:00,878170,Juan Pulido,Sevilla,Osasuna,2,3,2,5,-1
+2023-02-27 20:00:00,878169,Jorge Figueroa,Villarreal,Getafe,2,1,0,3,1
+2023-03-03 20:00:00,878180,Antonio Mateu,Real Sociedad,Cadiz,0,0,1,0,0
+2023-03-04 13:00:00,878175,Juan Martínez,Getafe,Girona,3,2,0,5,1
+2023-03-04 15:15:00,878176,Pablo González,Almeria,Villarreal,0,2,2,2,-2
+2023-03-04 17:30:00,878179,José Munuera,Mallorca,Elche,0,1,2,1,-1
+2023-03-04 20:00:00,878172,Guillermo Cuadra,Atletico Madrid,Sevilla,6,1,0,7,5
+2023-03-05 13:00:00,878181,Valentín Pizarro,Valladolid,Espanyol,2,1,0,3,1
+2023-03-05 15:15:00,878173,Javier Alberola,Barcelona,Valencia,1,0,0,1,1
+2023-03-05 17:30:00,878177,Mario Melero,Rayo Vallecano,Athletic Club,0,0,1,0,0
+2023-03-05 20:00:00,878174,César Soto,Real Betis,Real Madrid,0,0,1,0,0
+2023-03-06 20:00:00,878178,José Sánchez,Osasuna,Celta Vigo,0,0,1,0,0
+2023-03-10 20:00:00,878186,Alejandro Hernández,Cadiz,Getafe,2,2,1,4,0
+2023-03-11 13:00:00,878189,Jorge Figueroa,Real Madrid,Espanyol,3,1,0,4,2
+2023-03-11 15:15:00,878184,Isidro Díaz de Mera,Elche,Valladolid,1,1,1,2,0
+2023-03-11 17:30:00,878183,Juan Pulido,Celta Vigo,Rayo Vallecano,3,0,0,3,3
+2023-03-11 20:00:00,878190,Javier Iglesias,Valencia,Osasuna,1,0,0,1,1
+2023-03-12 13:00:00,878185,Juan Martínez,Mallorca,Real Sociedad,1,1,1,2,0
+2023-03-12 15:15:00,878191,Ricardo De Burgos,Sevilla,Almeria,2,1,0,3,1
+2023-03-12 17:30:00,878188,Miguel Ortiz,Villarreal,Real Betis,1,1,1,2,0
+2023-03-12 20:00:00,878182,Jesús Gil,Athletic Club,Barcelona,0,1,2,1,-1
+2023-03-13 20:00:00,878187,Mario Melero,Girona,Atletico Madrid,0,1,2,1,-1
+2023-03-17 20:00:00,878198,Javier Alberola,Valladolid,Athletic Club,1,3,2,4,-2
+2023-03-18 13:00:00,878197,Carlos del Cerro,Almeria,Cadiz,1,1,1,2,0
+2023-03-18 15:15:00,878201,Pablo González,Rayo Vallecano,Girona,2,2,1,4,0
+2023-03-18 17:30:00,878199,Guillermo Cuadra,Espanyol,Celta Vigo,1,3,2,4,-2
+2023-03-18 20:00:00,878192,José Munuera,Atletico Madrid,Valencia,3,0,0,3,3
+2023-03-19 13:00:00,878194,Valentín Pizarro,Real Betis,Mallorca,1,0,0,1,1
+2023-03-19 15:15:00,878200,José Sánchez,Real Sociedad,Elche,2,0,0,2,2
+2023-03-19 15:15:00,878196,Alejandro Muñiz,Osasuna,Villarreal,0,3,2,3,-3
+2023-03-19 17:30:00,878195,Antonio Mateu,Getafe,Sevilla,2,0,0,2,2
+2023-03-19 20:00:00,878193,Ricardo De Burgos,Barcelona,Real Madrid,2,1,0,3,1
+2023-03-31 19:00:00,878204,Isidro Díaz de Mera,Mallorca,Osasuna,0,0,1,0,0
+2023-04-01 12:00:00,878208,Miguel Ortiz,Girona,Espanyol,2,1,0,3,1
+2023-04-01 14:15:00,878202,Javier Iglesias,Athletic Club,Getafe,0,0,1,0,0
+2023-04-01 16:30:00,878205,César Soto,Cadiz,Sevilla,0,2,2,2,-2
+2023-04-01 19:00:00,878207,Carlos del Cerro,Elche,Barcelona,0,4,2,4,-4
+2023-04-02 12:00:00,878211,Alejandro Hernández,Celta Vigo,Almeria,2,2,1,4,0
+2023-04-02 14:15:00,878206,Juan Pulido,Real Madrid,Valladolid,6,0,0,6,6
+2023-04-02 16:30:00,878209,Jesús Gil,Villarreal,Real Sociedad,2,0,0,2,2
+2023-04-02 19:00:00,878203,Juan Martínez,Atletico Madrid,Real Betis,1,0,0,1,1
+2023-04-03 19:00:00,878210,Jorge Figueroa,Valencia,Rayo Vallecano,1,1,1,2,0
+2023-04-07 19:00:00,878218,Valentín Pizarro,Sevilla,Celta Vigo,2,2,1,4,0
+2023-04-08 12:00:00,878219,Pablo González,Osasuna,Elche,2,1,0,3,1
+2023-04-08 14:15:00,878216,José Munuera,Espanyol,Athletic Club,1,2,2,3,-1
+2023-04-08 16:30:00,878221,Mario Melero,Real Sociedad,Getafe,2,0,0,2,2
+2023-04-08 19:00:00,878214,Javier Alberola,Real Madrid,Villarreal,2,3,2,5,-1
+2023-04-09 12:00:00,878220,Alejandro Muñiz,Valladolid,Mallorca,3,3,1,6,0
+2023-04-09 14:15:00,878213,Guillermo Cuadra,Real Betis,Cadiz,0,2,2,2,-2
+2023-04-09 16:30:00,878215,José Sánchez,Almeria,Valencia,2,1,0,3,1
+2023-04-09 19:00:00,878217,Ricardo De Burgos,Rayo Vallecano,Atletico Madrid,1,2,2,3,-1
+2023-04-10 19:00:00,878212,Antonio Mateu,Barcelona,Girona,0,0,1,0,0
+2023-04-14 19:00:00,878229,José Munuera,Rayo Vallecano,Osasuna,2,1,0,3,1
+2023-04-15 12:00:00,878226,Javier Iglesias,Villarreal,Valladolid,1,2,2,3,-1
+2023-04-15 14:15:00,878222,César Soto,Athletic Club,Real Sociedad,2,0,0,2,2
+2023-04-15 16:30:00,878223,Alejandro Hernández,Real Betis,Espanyol,3,1,0,4,2
+2023-04-15 19:00:00,878225,Jesús Gil,Cadiz,Real Madrid,0,2,2,2,-2
+2023-04-16 12:00:00,878228,Jorge Figueroa,Girona,Elche,2,0,0,2,2
+2023-04-16 14:15:00,878227,Juan Pulido,Getafe,Barcelona,0,0,1,0,0
+2023-04-16 16:30:00,878231,Isidro Díaz de Mera,Atletico Madrid,Almeria,2,1,0,3,1
+2023-04-16 19:00:00,878230,Carlos del Cerro,Valencia,Sevilla,0,2,2,2,-2
+2023-04-17 19:00:00,878224,Miguel Ortiz,Celta Vigo,Mallorca,0,1,2,1,-1
+2023-04-21 19:00:00,878239,Juan Martínez,Espanyol,Cadiz,0,0,1,0,0
+2023-04-22 12:00:00,878236,Javier Alberola,Osasuna,Real Betis,3,2,0,5,1
+2023-04-22 14:15:00,878234,Valentín Pizarro,Almeria,Athletic Club,1,2,2,3,-1
+2023-04-22 16:30:00,878240,Alejandro Muñiz,Real Sociedad,Rayo Vallecano,2,1,0,3,1
+2023-04-22 16:30:00,878241,Mario Melero,Valladolid,Girona,1,0,0,1,1
+2023-04-22 19:00:00,878237,Antonio Mateu,Real Madrid,Celta Vigo,2,0,0,2,2
+2023-04-23 12:00:00,878232,Guillermo Cuadra,Elche,Valencia,0,2,2,2,-2
+2023-04-23 14:15:00,878235,José Sánchez,Barcelona,Atletico Madrid,1,0,0,1,1
+2023-04-23 16:30:00,878238,Pablo González,Mallorca,Getafe,3,1,0,4,2
+2023-04-23 19:00:00,878233,Ricardo De Burgos,Sevilla,Villarreal,2,1,0,3,1
+2023-04-25 17:30:00,878248,Javier Iglesias,Girona,Real Madrid,4,2,0,6,2
+2023-04-25 17:30:00,878246,Carlos del Cerro,Cadiz,Osasuna,0,1,2,1,-1
+2023-04-25 20:00:00,878244,Juan Martínez,Real Betis,Real Sociedad,0,0,1,0,0
+2023-04-26 17:30:00,878243,Juan Pulido,Atletico Madrid,Mallorca,3,1,0,4,2
+2023-04-26 17:30:00,878251,Javier Alberola,Getafe,Almeria,1,2,2,3,-1
+2023-04-26 20:00:00,878245,Isidro Díaz de Mera,Celta Vigo,Elche,1,0,0,1,1
+2023-04-26 20:00:00,878249,Jesús Gil,Rayo Vallecano,Barcelona,2,1,0,3,1
+2023-04-27 17:30:00,878250,César Soto,Villarreal,Espanyol,4,2,0,6,2
+2023-04-27 17:30:00,878247,José Munuera,Valencia,Valladolid,2,1,0,3,1
+2023-04-27 20:00:00,878242,Alejandro Hernández,Athletic Club,Sevilla,0,1,2,1,-1
+2023-04-28 19:00:00,878256,Valentín Pizarro,Osasuna,Real Sociedad,0,2,2,2,-2
+2023-04-29 14:15:00,878253,Mario Melero,Elche,Rayo Vallecano,4,0,0,4,4
+2023-04-29 16:30:00,878260,Guillermo Cuadra,Real Madrid,Almeria,4,2,0,6,2
+2023-04-29 19:00:00,878252,Carlos del Cerro,Barcelona,Real Betis,4,0,0,4,4
+2023-04-30 12:00:00,878254,Ricardo De Burgos,Cadiz,Valencia,2,1,0,3,1
+2023-04-30 14:15:00,878259,Pablo González,Villarreal,Celta Vigo,3,1,0,4,2
+2023-04-30 16:30:00,878255,José Sánchez,Espanyol,Getafe,1,0,0,1,1
+2023-04-30 19:00:00,878258,Antonio Mateu,Valladolid,Atletico Madrid,2,5,2,7,-3
+2023-05-01 17:00:00,878257,Jorge Figueroa,Mallorca,Athletic Club,1,1,1,2,0
+2023-05-01 19:00:00,878261,Alejandro Muñiz,Sevilla,Girona,0,2,2,2,-2
+2023-05-02 17:30:00,878264,Javier Iglesias,Barcelona,Osasuna,1,0,0,1,1
+2023-05-02 17:30:00,878267,Alejandro Hernández,Almeria,Elche,2,1,0,3,1
+2023-05-02 20:00:00,878271,Juan Pulido,Real Sociedad,Real Madrid,2,0,0,2,2
+2023-05-03 17:30:00,878265,Jesús Gil,Valencia,Villarreal,1,1,1,2,0
+2023-05-03 20:00:00,878263,César Soto,Atletico Madrid,Cadiz,5,1,0,6,4
+2023-05-03 20:00:00,878269,Guillermo Cuadra,Getafe,Celta Vigo,1,0,0,1,1
+2023-05-04 17:30:00,878270,Javier Alberola,Sevilla,Espanyol,3,2,0,5,1
+2023-05-04 17:30:00,878268,Juan Martínez,Girona,Mallorca,2,1,0,3,1
+2023-05-04 20:00:00,878262,Miguel Ortiz,Athletic Club,Real Betis,0,1,2,1,-1
+2023-05-04 20:00:00,878266,Isidro Díaz de Mera,Rayo Vallecano,Valladolid,2,1,0,3,1
+2023-05-12 19:00:00,878278,José Sánchez,Mallorca,Cadiz,1,0,0,1,1
+2023-05-13 12:00:00,878281,Jorge Figueroa,Real Sociedad,Girona,2,2,1,4,0
+2023-05-13 14:15:00,878280,Antonio Mateu,Osasuna,Almeria,3,1,0,4,2
+2023-05-13 16:30:00,878274,Carlos del Cerro,Villarreal,Athletic Club,5,1,0,6,4
+2023-05-13 19:00:00,878277,Juan Martínez,Real Madrid,Getafe,1,0,0,1,1
+2023-05-14 12:00:00,878273,César Soto,Celta Vigo,Valencia,1,2,2,3,-1
+2023-05-14 14:15:00,878275,Alejandro Muñiz,Elche,Atletico Madrid,1,0,0,1,1
+2023-05-14 16:30:00,878279,Miguel Ortiz,Valladolid,Sevilla,0,3,2,3,-3
+2023-05-14 19:00:00,878276,Ricardo De Burgos,Espanyol,Barcelona,2,4,2,6,-2
+2023-05-15 19:00:00,878272,Juan Pulido,Real Betis,Rayo Vallecano,3,1,0,4,2
+2023-05-19 19:00:00,878285,Juan Martínez,Cadiz,Valladolid,2,0,0,2,2
+2023-05-20 12:00:00,878287,Valentín Pizarro,Girona,Villarreal,1,2,2,3,-1
+2023-05-20 14:15:00,878282,Mario Melero,Athletic Club,Celta Vigo,2,1,0,3,1
+2023-05-20 16:30:00,878286,Carlos del Cerro,Almeria,Mallorca,3,0,0,3,3
+2023-05-20 16:30:00,878289,Javier Iglesias,Getafe,Elche,1,1,1,2,0
+2023-05-20 19:00:00,878284,Javier Alberola,Barcelona,Real Sociedad,1,2,2,3,-1
+2023-05-21 12:00:00,878290,Alejandro Hernández,Rayo Vallecano,Espanyol,1,2,2,3,-1
+2023-05-21 14:15:00,878283,Pablo González,Atletico Madrid,Osasuna,3,0,0,3,3
+2023-05-21 16:30:00,878291,Ricardo De Burgos,Valencia,Real Madrid,1,0,0,1,1
+2023-05-21 19:00:00,878288,Jesús Gil,Sevilla,Real Betis,0,0,1,0,0
+2023-05-23 17:30:00,878293,Antonio Mateu,Celta Vigo,Girona,1,1,1,2,0
+2023-05-23 17:30:00,878301,Pablo González,Real Sociedad,Almeria,1,0,0,1,1
+2023-05-23 20:00:00,878298,César Soto,Valladolid,Barcelona,3,1,0,4,2
+2023-05-24 17:30:00,878294,Isidro Díaz de Mera,Elche,Sevilla,1,1,1,2,0
+2023-05-24 17:30:00,878299,Juan Pulido,Villarreal,Cadiz,2,0,0,2,2
+2023-05-24 17:30:00,878300,Jesús Gil,Real Madrid,Rayo Vallecano,2,1,0,3,1
+2023-05-24 20:00:00,878292,Ricardo De Burgos,Real Betis,Getafe,0,1,2,1,-1
+2023-05-24 20:00:00,878297,Mario Melero,Espanyol,Atletico Madrid,3,3,1,6,0
+2023-05-25 17:30:00,878295,Alejandro Hernández,Mallorca,Valencia,1,0,0,1,1
+2023-05-25 19:30:00,878296,Alejandro Muñiz,Osasuna,Athletic Club,2,0,0,2,2
+2023-05-27 17:00:00,878311,César Soto,Sevilla,Real Madrid,1,2,2,3,-1
+2023-05-28 17:00:00,878307,Javier Iglesias,Rayo Vallecano,Villarreal,2,1,0,3,1
+2023-05-28 17:00:00,878308,Javier Alberola,Almeria,Valladolid,0,0,1,0,0
+2023-05-28 17:00:00,878309,Isidro Díaz de Mera,Girona,Real Betis,1,2,2,3,-1
+2023-05-28 17:00:00,878305,Antonio Mateu,Getafe,Osasuna,2,1,0,3,1
+2023-05-28 17:00:00,878306,Ricardo De Burgos,Cadiz,Celta Vigo,1,0,0,1,1
+2023-05-28 17:00:00,878302,Valentín Pizarro,Athletic Club,Elche,0,1,2,1,-1
+2023-05-28 17:00:00,878303,Juan Pulido,Atletico Madrid,Real Sociedad,2,1,0,3,1
+2023-05-28 17:00:00,878304,Jorge Figueroa,Barcelona,Mallorca,3,0,0,3,3
+2023-05-28 17:00:00,878310,Jesús Gil,Valencia,Espanyol,2,2,1,4,0
+2023-06-04 16:30:00,878316,Ricardo De Burgos,Villarreal,Atletico Madrid,2,2,1,4,0
+2023-06-04 16:30:00,878315,Isidro Díaz de Mera,Real Madrid,Athletic Club,1,1,1,2,0
+2023-06-04 16:30:00,878314,Carlos del Cerro,Real Sociedad,Sevilla,2,1,0,3,1
+2023-06-04 16:30:00,878321,Miguel Ortiz,Osasuna,Girona,2,1,0,3,1
+2023-06-04 16:30:00,878313,Antonio Mateu,Mallorca,Rayo Vallecano,3,0,0,3,3
+2023-06-04 19:00:00,878318,José Munuera,Valladolid,Getafe,0,0,1,0,0
+2023-06-04 19:00:00,878317,Juan Pulido,Celta Vigo,Barcelona,2,1,0,3,1
+2023-06-04 19:00:00,878320,César Soto,Espanyol,Almeria,3,3,1,6,0
+2023-06-04 19:00:00,878312,Javier Alberola,Real Betis,Valencia,1,1,1,2,0
+2023-06-04 19:00:00,878319,Jesús Gil,Elche,Cadiz,1,1,1,2,0
